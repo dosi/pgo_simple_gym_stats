@@ -63,6 +63,7 @@ for pentry in pdata:
                 quick_move_active = -1.0*(charge_move_entry["Energy Delta"]/quick_move_energy_per_second)
                 
                 charge_dps_active_fraction = charge_dur/(charge_dur + quick_move_active)
+                print(str(charge_dps_active_fraction))
                 total_power_per_sec = charge_dps_active_fraction*charge_power_per_sec + (1.0 - charge_dps_active_fraction)*power_per_sec
               att_goodness = pentry["Base Attack"]*total_power_per_sec/100.0
               def_goodness = pentry["Base Defense"]*pentry["Base Stamina"]/1000.0

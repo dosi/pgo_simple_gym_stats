@@ -1,5 +1,5 @@
 # pgo_simple_gym_stats
-Simplified gym stats for all pokemon &amp; quick move combinations. 
+Simplified gym stats for all pokemon &amp; move combinations. 
 
 Ready .xls table with headers is provided in pokemon_go_gym_simplestats.xls 
 
