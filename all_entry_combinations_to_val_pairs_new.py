@@ -2,8 +2,8 @@ import sys
 import json
 from pprint import pprint
 
-data_mtype_fn = 'json_data/data_mtype.json'
-data_ptype_fn = 'json_data/data_ptype.json'
+data_mtype_fn = 'data_mtype.json'
+data_ptype_fn = 'data_ptype.json'
 
 with open(data_mtype_fn) as mfile:
   mdata = json.load(mfile)
