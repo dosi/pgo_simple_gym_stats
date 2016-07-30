@@ -1,0 +1,287 @@
+1,Bulbasaur,Vine Whip,16.9615384615,11.34
+1,Bulbasaur,Tackle,13.7454545455,11.34
+2,Ivysaur,Razor Leaf,20.1724137931,18.96
+2,Ivysaur,Vine Whip,21.0,18.96
+3,Venusaur,Razor Leaf,25.6034482759,32.0
+3,Venusaur,Vine Whip,26.6538461538,32.0
+4,Charmander,Ember,15.2380952381,8.424
+4,Charmander,Scratch,15.36,8.424
+5,Charmeleon,Ember,19.0476190476,16.24
+5,Charmeleon,Scratch,19.2,16.24
+6,Charizard,Ember,25.2380952381,28.392
+6,Charizard,Wing Attack,31.8,28.392
+7,Squirtle,Bubble,15.2173913043,12.496
+7,Squirtle,Tackle,12.2181818182,12.496
+8,Wartortle,Water Gun,21.6,20.768
+8,Wartortle,Bite,17.28,20.768
+9,Blastoise,Water Gun,27.9,35.076
+9,Blastoise,Bite,22.32,35.076
+10,Caterpie,Bug Bite,8.61111111111,5.94
+10,Caterpie,Tackle,6.76363636364,5.94
+11,Metapod,Bug Bite,7.77777777778,8.6
+11,Metapod,Tackle,6.10909090909,8.6
+12,Butterfree,Bug Bite,20.0,17.28
+12,Butterfree,Confusion,14.3046357616,17.28
+13,Weedle,Bug Bite,9.44444444444,5.12
+13,Weedle,Poison Sting,8.86956521739,5.12
+14,Kakuna,Bug Bite,8.61111111111,7.38
+14,Kakuna,Poison Sting,8.08695652174,7.38
+15,Beedrill,Bug Bite,20.0,16.9
+15,Beedrill,Poison Jab,20.5714285714,16.9
+16,Pidgey,Quick Attack,8.83458646617,7.2
+16,Pidgey,Tackle,12.8181818182,7.2
+17,Pidgeotto,Wing Attack,18.9,15.372
+17,Pidgeotto,Steel Wing,14.2105263158,15.372
+18,Pidgeot,Wing Attack,25.5,27.556
+18,Pidgeot,Steel Wing,19.1729323308,27.556
+19,Rattata,Tackle,12.5454545455,5.16
+19,Rattata,Quick Attack,8.64661654135,5.16
+20,Raticate,Bite,17.52,16.5
+20,Raticate,Quick Attack,13.7218045113,16.5
+21,Spearow,Peck,11.0869565217,6.24
+21,Spearow,Quick Attack,9.58646616541,6.24
+22,Fearow,Peck,18.2608695652,18.98
+22,Fearow,Steel Wing,18.9473684211,18.98
+23,Ekans,Poison Sting,14.6086956522,7.84
+23,Ekans,Acid,13.3333333333,7.84
+24,Arbok,Bite,19.92,19.92
+24,Arbok,Acid,19.7619047619,19.92
+25,Pikachu,Thunder Shock,12.9166666667,7.56
+25,Pikachu,Quick Attack,9.32330827068,7.56
+26,Raichu,Thunder Shock,20.8333333333,18.48
+26,Raichu,Spark,25.0,18.48
+27,Sandshrew,Scratch,10.8,11.4
+27,Sandshrew,Mud Shot,12.2727272727,11.4
+28,Sandslash,Metal Claw,19.0476190476,25.8
+28,Sandslash,Mud Shot,20.4545454545,25.8
+29,NidoranF,Bite,12.0,11.44
+29,NidoranF,Poison Sting,13.0434782609,11.44
+30,Nidorina,Bite,15.84,19.04
+30,Nidorina,Poison Sting,17.2173913043,19.04
+31,Nidoqueen,Poison Jab,26.2857142857,34.2
+31,Nidoqueen,Bite,22.08,34.2
+32,NidoranM,Peck,9.5652173913,8.648
+32,NidoranM,Poison Sting,14.347826087,8.648
+33,Nidorino,Poison Jab,20.2857142857,15.616
+33,Nidorino,Poison Sting,18.5217391304,15.616
+34,Nidoking,Poison Jab,29.1428571429,27.54
+34,Nidoking,Fury Cutter,15.3,27.54
+35,Clefairy,Pound,15.037037037,17.36
+35,Clefairy,Zen Headbutt,13.2571428571,17.36
+36,Clefable,Pound,23.0740740741,33.82
+36,Clefable,Zen Headbutt,20.3428571429,33.82
+37,Vulpix,Quick Attack,7.96992481203,8.968
+37,Vulpix,Ember,12.619047619,8.968
+38,Ninetales,Feint Attack,20.3076923077,28.324
+38,Ninetales,Ember,20.9523809524,28.324
+39,Jigglypuff,Pound,15.8796296296,12.42
+39,Jigglypuff,Feint Attack,11.3076923077,12.42
+40,Wigglytuff,Pound,27.2222222222,30.24
+40,Wigglytuff,Feint Attack,19.3846153846,30.24
+41,Zubat,Quick Attack,6.61654135338,7.2
+41,Zubat,Bite,10.56,7.2
+42,Golbat,Wing Attack,24.6,24.6
+42,Golbat,Bite,19.68,24.6
+43,Oddish,Razor Leaf,17.3275862069,11.7
+43,Oddish,Acid,15.9523809524,11.7
+44,Gloom,Razor Leaf,20.9482758621,18.96
+44,Gloom,Acid,19.2857142857,18.96
+45,Vileplume,Razor Leaf,26.1206896552,28.5
+45,Vileplume,Acid,24.0476190476,28.5
+46,Paras,Scratch,14.64,8.4
+46,Paras,Bug Bite,16.9444444444,8.4
+47,Parasect,Bug Bite,22.5,20.4
+47,Parasect,Fury Cutter,15.1875,20.4
+48,Venonat,Bug Bite,15.0,14.16
+48,Venonat,Confusion,10.7284768212,14.16
+49,Venomoth,Bug Bite,23.8888888889,21.56
+49,Venomoth,Confusion,17.0860927152,21.56
+50,Diglett,Mud Shot,14.7272727273,1.72
+50,Diglett,Scratch,12.96,1.72
+51,Dugtrio,Sucker Punch,14.8,9.8
+51,Dugtrio,Mud Shot,20.1818181818,9.8
+52,Meowth,Scratch,15.6,7.52
+52,Meowth,Bite,12.48,7.52
+53,Persian,Scratch,23.4,18.98
+53,Persian,Feint Attack,18.0,18.98
+54,Psyduck,Water Gun,19.8,11.2
+54,Psyduck,Zen Headbutt,15.0857142857,11.2
+55,Golduck,Water Gun,29.1,28.16
+55,Golduck,Confusion,19.2715231788,28.16
+56,Mankey,Karate Chop,11.4375,7.68
+56,Mankey,Scratch,14.64,7.68
+57,Primeape,Low Kick,18.5416666667,19.5
+57,Primeape,Karate Chop,16.6875,19.5
+58,Growlithe,Ember,18.5714285714,12.1
+58,Growlithe,Bite,18.72,12.1
+59,Arcanine,Fire Fang,34.2261904762,32.4
+59,Arcanine,Bite,27.6,32.4
+60,Poliwag,Bubble,14.6739130435,7.84
+60,Poliwag,Mud Shot,11.7818181818,7.84
+61,Poliwhirl,Bubble,17.9347826087,17.16
+61,Poliwhirl,Mud Shot,14.4,17.16
+62,Poliwrath,Bubble,24.4565217391,36.36
+62,Poliwrath,Mud Shot,19.6363636364,36.36
+63,Abra,Zen Headbutt,15.7142857143,3.8
+64,Kadabra,Psycho Cut,23.0263157895,8.96
+64,Kadabra,Confusion,18.6258278146,8.96
+65,Alakazam,Psycho Cut,28.5526315789,16.72
+65,Alakazam,Confusion,23.0960264901,16.72
+66,Machop,Low Kick,12.2916666667,13.44
+66,Machop,Karate Chop,11.0625,13.44
+67,Machoke,Low Kick,16.0416666667,23.04
+67,Machoke,Karate Chop,14.4375,23.04
+68,Machamp,Bullet Punch,16.5,32.4
+68,Machamp,Karate Chop,18.5625,32.4
+69,Bellsprout,Vine Whip,21.2692307692,7.8
+69,Bellsprout,Acid,18.8095238095,7.8
+70,Weepinbell,Razor Leaf,24.5689655172,14.3
+70,Weepinbell,Acid,22.619047619,14.3
+71,Victreebel,Razor Leaf,28.7068965517,24.32
+71,Victreebel,Acid,26.4285714286,24.32
+72,Tentacool,Bubble,14.402173913,10.88
+72,Tentacool,Poison Sting,13.8260869565,10.88
+73,Tentacruel,Acid,20.2380952381,31.36
+73,Tentacruel,Poison Jab,24.2857142857,31.36
+74,Geodude,Rock Throw,11.6911764706,9.44
+74,Geodude,Tackle,11.5636363636,9.44
+75,Graveler,Rock Throw,15.6617647059,17.16
+75,Graveler,Mud Shot,19.3636363636,17.16
+76,Golem,Rock Throw,19.4117647059,31.68
+76,Golem,Mud Shot,24.0,31.68
+77,Ponyta,Tackle,18.3272727273,13.8
+77,Ponyta,Ember,20.0,13.8
+78,Rapidash,Low Kick,16.6666666667,22.1
+78,Rapidash,Ember,23.8095238095,22.1
+79,Slowpoke,Water Gun,16.5,19.8
+79,Slowpoke,Confusion,13.6589403974,19.8
+80,Slowbro,Water Gun,27.6,37.62
+80,Slowbro,Confusion,22.8476821192,37.62
+81,Magnemite,Spark,16.0,6.9
+81,Magnemite,Thunder Shock,13.3333333333,6.9
+82,Magneton,Spark,23.25,18.0
+82,Magneton,Thunder Shock,19.375,18.0
+83,Farfetchd,Cut,18.3185840708,13.728
+83,Farfetchd,Fury Cutter,10.35,13.728
+84,Doduo,Peck,13.6956521739,6.72
+84,Doduo,Quick Attack,11.8421052632,6.72
+85,Dodrio,Feint Attack,21.0,18.0
+85,Dodrio,Steel Wing,20.5263157895,18.0
+86,Seel,Ice Shard,11.1428571429,17.94
+86,Seel,Water Gun,15.6,17.94
+87,Dewgong,Frost Breath,21.6666666667,34.56
+87,Dewgong,Ice Shard,20.8928571429,34.56
+88,Grimer,Acid,14.7619047619,17.6
+88,Grimer,Mud Slap,13.7777777778,17.6
+89,Muk,Acid,21.4285714286,39.48
+89,Muk,Poison Jab,25.7142857143,39.48
+90,Shellder,Ice Shard,12.8571428571,6.72
+90,Shellder,Tackle,13.0909090909,6.72
+91,Cloyster,Frost Breath,27.2222222222,19.6
+91,Cloyster,Ice Shard,26.25,19.6
+92,Gastly,Lick,17.0,4.92
+92,Gastly,Sucker Punch,13.6,4.92
+93,Haunter,Shadow Claw,24.8947368421,10.62
+93,Haunter,Lick,21.5,10.62
+94,Gengar,Sucker Punch,20.4,18.72
+94,Gengar,Shadow Claw,29.5263157895,18.72
+95,Onix,Rock Throw,9.92647058824,13.02
+95,Onix,Tackle,9.81818181818,13.02
+96,Drowzee,Pound,13.4814814815,16.8
+96,Drowzee,Confusion,12.9139072848,16.8
+97,Hypno,Zen Headbutt,23.1428571429,33.32
+97,Hypno,Confusion,20.1158940397,33.32
+98,Krabby,Bubble,15.7608695652,6.6
+98,Krabby,Mud Shot,12.6545454545,6.6
+99,Kingler,Metal Claw,22.6031746032,18.48
+99,Kingler,Mud Shot,19.4181818182,18.48
+100,Voltorb,Spark,12.75,9.92
+100,Voltorb,Tackle,11.1272727273,9.92
+101,Electrode,Spark,18.75,20.88
+101,Electrode,Tackle,16.3636363636,20.88
+102,Exeggcute,Confusion,13.6589403974,15.84
+103,Exeggutor,Confusion,28.8079470199,31.16
+103,Exeggutor,Zen Headbutt,33.1428571429,31.16
+104,Cubone,Mud Slap,14.1666666667,15.0
+104,Cubone,Rock Smash,10.8510638298,15.0
+105,Marowak,Mud Slap,19.4444444444,24.24
+105,Marowak,Rock Smash,14.8936170213,24.24
+106,Hitmonlee,Low Kick,15.4166666667,17.2
+106,Hitmonlee,Rock Smash,19.6808510638,17.2
+107,Hitmonchan,Bullet Punch,11.5,20.4
+107,Hitmonchan,Rock Smash,18.3510638298,20.4
+108,Lickitung,Lick,12.6,28.8
+108,Lickitung,Zen Headbutt,14.4,28.8
+109,Koffing,Acid,16.1904761905,11.36
+109,Koffing,Tackle,14.8363636364,11.36
+110,Weezing,Acid,22.619047619,25.74
+110,Weezing,Tackle,20.7272727273,25.74
+111,Rhyhorn,Mud Slap,15.2777777778,18.56
+111,Rhyhorn,Rock Smash,11.7021276596,18.56
+112,Rhydon,Mud Slap,23.0555555556,33.6
+112,Rhydon,Rock Smash,17.6595744681,33.6
+113,Chansey,Pound,6.48148148148,30.0
+113,Chansey,Zen Headbutt,4.57142857143,30.0
+114,Tangela,Vine Whip,22.0769230769,19.76
+115,Kangaskhan,Mud Slap,15.7777777778,37.38
+115,Kangaskhan,Low Kick,11.8333333333,37.38
+116,Horsea,Water Gun,18.3,6.0
+116,Horsea,Bubble,16.5760869565,6.0
+117,Seadra,Water Gun,26.4,16.5
+117,Seadra,Dragon Breath,21.12,16.5
+118,Goldeen,Peck,9.73913043478,11.34
+118,Goldeen,Mud Shot,12.2181818182,11.34
+119,Seaking,Peck,14.9565217391,25.6
+119,Seaking,Poison Jab,19.6571428571,25.6
+120,Staryu,Quick Attack,9.77443609023,7.68
+120,Staryu,Water Gun,19.5,7.68
+121,Starmie,Quick Attack,14.5864661654,23.04
+121,Starmie,Water Gun,29.1,23.04
+122,Mime,Confusion,19.1225165563,15.68
+122,Mime,Zen Headbutt,22.0,15.68
+123,Scyther,Fury Cutter,16.5,25.2
+123,Scyther,Steel Wing,19.8496240602,25.2
+124,Jynx,Frost Breath,23.8888888889,17.42
+124,Jynx,Pound,22.2962962963,17.42
+125,Electabuzz,Thunder Shock,20.625,20.8
+125,Electabuzz,Low Kick,16.5,20.8
+126,Magmar,Ember,25.4761904762,20.54
+126,Magmar,Karate Chop,16.05,20.54
+127,Pinsir,Rock Smash,19.5744680851,24.18
+127,Pinsir,Fury Cutter,17.25,24.18
+128,Tauros,Tackle,20.1818181818,27.6
+128,Tauros,Zen Headbutt,16.9142857143,27.6
+130,Gyarados,Dragon Breath,23.04,37.24
+130,Gyarados,Bite,23.04,37.24
+131,Lapras,Frost Breath,25.8333333333,49.4
+131,Lapras,Ice Shard,24.9107142857,49.4
+132,Ditto,Pound,17.8240740741,10.56
+133,Eevee,Quick Attack,10.7142857143,14.08
+133,Eevee,Tackle,15.5454545455,14.08
+134,Vaporeon,Water Gun,27.9,43.68
+135,Jolteon,Thunder Shock,20.0,22.62
+136,Flareon,Ember,28.3333333333,23.14
+137,Porygon,Quick Attack,14.6616541353,20.54
+137,Porygon,Tackle,21.2727272727,20.54
+138,Omanyte,Water Gun,19.8,11.2
+138,Omanyte,Mud Shot,14.4,11.2
+139,Omastar,Rock Throw,19.8529411765,28.28
+139,Omastar,Water Gun,27.0,28.28
+140,Kabuto,Scratch,17.76,8.52
+140,Kabuto,Mud Shot,16.1454545455,8.52
+141,Kabutops,Mud Shot,20.7272727273,22.8
+141,Kabutops,Fury Cutter,14.25,22.8
+142,Aerodactyl,Steel Wing,20.5263157895,25.92
+142,Aerodactyl,Bite,21.84,25.92
+143,Snorlax,Zen Headbutt,20.5714285714,57.6
+143,Snorlax,Lick,18.0,57.6
+144,Articuno,Frost Breath,27.5,43.56
+145,Zapdos,Thunder Shock,24.1666666667,34.92
+146,Moltres,Ember,28.8095238095,34.92
+147,Dratini,Dragon Breath,19.2,9.02
+148,Dragonair,Dragon Breath,25.5,18.544
+149,Dragonite,Dragon Breath,37.5,38.584
+149,Dragonite,Steel Wing,28.1954887218,38.584
+150,Mewtwo,Psycho Cut,43.5964912281,42.824
+150,Mewtwo,Confusion,35.2649006623,42.824
+151,Mew,Pound,28.5185185185,44.0
