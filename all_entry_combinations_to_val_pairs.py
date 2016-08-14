@@ -46,7 +46,7 @@ for pentry in pdata:
               for ptype in pentry["Types"]:
                 if ptype == charge_move_entry["Type"]:
                   charge_multip = 1.25
-              charge_power_per_sec = charge_power_per_sec*multip
+              charge_power_per_sec = charge_power_per_sec*charge_multip
               print(str(pentry["PkMn"]))
               print(str(pentry["Name"]))
               print(str(mentry["Name"]))
