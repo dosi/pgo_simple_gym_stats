@@ -1531,7 +1531,7 @@
     "Duration (ms)": 400,
     "Damage Window Start (ms)": 200,
     "Damage Window End (ms)": 400,
-    "Energy Delta": 12
+    "Energy Delta": 6
 }, {
     "ID": 201,
     "Name": "Bug Bite",
@@ -1576,7 +1576,7 @@
     "Duration (ms)": 700,
     "Damage Window Start (ms)": 500,
     "Damage Window End (ms)": 700,
-    "Energy Delta": 4
+    "Energy Delta": 9
 }, {
     "ID": 204,
     "Name": "Dragon Breath",
@@ -1606,7 +1606,7 @@
     "Duration (ms)": 600,
     "Damage Window Start (ms)": 400,
     "Damage Window End (ms)": 600,
-    "Energy Delta": 7
+    "Energy Delta": 8
 }, {
     "ID": 206,
     "Name": "Spark",
@@ -1621,7 +1621,7 @@
     "Duration (ms)": 700,
     "Damage Window Start (ms)": 500,
     "Damage Window End (ms)": 700,
-    "Energy Delta": 4
+    "Energy Delta": 8
 }, {
     "ID": 207,
     "Name": "Low Kick",
@@ -1651,7 +1651,7 @@
     "Duration (ms)": 800,
     "Damage Window Start (ms)": 600,
     "Damage Window End (ms)": 800,
-    "Energy Delta": 7
+    "Energy Delta": 8
 }, {
     "ID": 209,
     "Name": "Ember",
@@ -1666,7 +1666,7 @@
     "Duration (ms)": 1050,
     "Damage Window Start (ms)": 850,
     "Damage Window End (ms)": 1050,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 210,
     "Name": "Wing Attack",
@@ -1711,7 +1711,7 @@
     "Duration (ms)": 500,
     "Damage Window Start (ms)": 300,
     "Damage Window End (ms)": 500,
-    "Energy Delta": 7
+    "Energy Delta": 6
 }, {
     "ID": 213,
     "Name": "Shadow Claw",
@@ -1726,7 +1726,7 @@
     "Duration (ms)": 950,
     "Damage Window Start (ms)": 750,
     "Damage Window End (ms)": 950,
-    "Energy Delta": 7
+    "Energy Delta": 8
 }, {
     "ID": 214,
     "Name": "Vine Whip",
@@ -1756,7 +1756,7 @@
     "Duration (ms)": 1450,
     "Damage Window Start (ms)": 1250,
     "Damage Window End (ms)": 1450,
-    "Energy Delta": 7
+    "Energy Delta": 12
 }, {
     "ID": 216,
     "Name": "Mud Shot",
@@ -1786,7 +1786,7 @@
     "Duration (ms)": 1400,
     "Damage Window Start (ms)": 1200,
     "Damage Window End (ms)": 1400,
-    "Energy Delta": 7
+    "Energy Delta": 12
 }, {
     "ID": 218,
     "Name": "Frost Breath",
@@ -1816,7 +1816,7 @@
     "Duration (ms)": 1330,
     "Damage Window Start (ms)": 1130,
     "Damage Window End (ms)": 1330,
-    "Energy Delta": 7
+    "Energy Delta": 12
 }, {
     "ID": 220,
     "Name": "Scratch",
@@ -1846,7 +1846,7 @@
     "Duration (ms)": 1100,
     "Damage Window Start (ms)": 900,
     "Damage Window End (ms)": 1100,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 222,
     "Name": "Pound",
@@ -1876,7 +1876,7 @@
     "Duration (ms)": 1130,
     "Damage Window Start (ms)": 930,
     "Damage Window End (ms)": 1130,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 224,
     "Name": "Poison Jab",
@@ -1891,7 +1891,7 @@
     "Duration (ms)": 1050,
     "Damage Window Start (ms)": 850,
     "Damage Window End (ms)": 1050,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 225,
     "Name": "Acid",
@@ -1906,7 +1906,7 @@
     "Duration (ms)": 1050,
     "Damage Window Start (ms)": 850,
     "Damage Window End (ms)": 1050,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 226,
     "Name": "Psycho Cut",
@@ -1936,7 +1936,7 @@
     "Duration (ms)": 1360,
     "Damage Window Start (ms)": 1160,
     "Damage Window End (ms)": 1360,
-    "Energy Delta": 7
+    "Energy Delta": 15
 }, {
     "ID": 228,
     "Name": "Metal Claw",
@@ -1966,7 +1966,7 @@
     "Duration (ms)": 1200,
     "Damage Window Start (ms)": 1000,
     "Damage Window End (ms)": 1200,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 230,
     "Name": "Water Gun",
@@ -1995,7 +1995,7 @@
     "Duration (ms)": 1230,
     "Damage Window Start (ms)": 1030,
     "Damage Window End (ms)": 1230,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 232,
     "Name": "Water Gun Fast Blastoise",
@@ -2025,7 +2025,7 @@
     "Duration (ms)": 1350,
     "Damage Window Start (ms)": 1150,
     "Damage Window End (ms)": 1350,
-    "Energy Delta": 9
+    "Energy Delta": 12
 }, {
     "ID": 234,
     "Name": "Zen Headbutt",
@@ -2040,7 +2040,7 @@
     "Duration (ms)": 1050,
     "Damage Window Start (ms)": 850,
     "Damage Window End (ms)": 1050,
-    "Energy Delta": 4
+    "Energy Delta": 9
 }, {
     "ID": 235,
     "Name": "Confusion",
@@ -2055,7 +2055,7 @@
     "Duration (ms)": 1510,
     "Damage Window Start (ms)": 1310,
     "Damage Window End (ms)": 1510,
-    "Energy Delta": 7
+    "Energy Delta": 14
 }, {
     "ID": 236,
     "Name": "Poison Sting",
@@ -2070,7 +2070,7 @@
     "Duration (ms)": 575,
     "Damage Window Start (ms)": 375,
     "Damage Window End (ms)": 575,
-    "Energy Delta": 4
+    "Energy Delta": 8
 }, {
     "ID": 237,
     "Name": "Bubble",
@@ -2085,7 +2085,7 @@
     "Duration (ms)": 2300,
     "Damage Window Start (ms)": 2100,
     "Damage Window End (ms)": 2300,
-    "Energy Delta": 15
+    "Energy Delta": 25
 }, {
     "ID": 238,
     "Name": "Feint Attack",
@@ -2100,7 +2100,7 @@
     "Duration (ms)": 1040,
     "Damage Window Start (ms)": 840,
     "Damage Window End (ms)": 1040,
-    "Energy Delta": 7
+    "Energy Delta": 10
 }, {
     "ID": 239,
     "Name": "Steel Wing",
@@ -2115,7 +2115,7 @@
     "Duration (ms)": 1330,
     "Damage Window Start (ms)": 1130,
     "Damage Window End (ms)": 1330,
-    "Energy Delta": 4
+    "Energy Delta": 12
 }, {
     "ID": 240,
     "Name": "Fire Fang",
@@ -2130,7 +2130,7 @@
     "Duration (ms)": 840,
     "Damage Window Start (ms)": 640,
     "Damage Window End (ms)": 840,
-    "Energy Delta": 4
+    "Energy Delta": 8
 }, {
     "ID": 241,
     "Name": "Rock Smash",
@@ -2145,5 +2145,5 @@
     "Duration (ms)": 1410,
     "Damage Window Start (ms)": 1210,
     "Damage Window End (ms)": 1410,
-    "Energy Delta": 7
+    "Energy Delta": 12
 } ]
