@@ -29,6 +29,8 @@ if write_defender_data:
 lineOut = lineOut + "\n"
 outfile.write(lineOut)
 
+crit_in_game = False
+
 for pentry in pdata:
   #for mkey in pentry["Quick Attacks"]:
   for mkey in pentry["Quick Moves"]:
@@ -63,6 +65,8 @@ for pentry in pdata:
               print(str(mentry["Name"]))
               print(str(charge_move_entry["Name"]))
               crit_bonus_pps = 0.5*power_per_sec*charge_move_entry["Crit"]
+              if not crit_in_game:
+                crit_bonus_pps = 0
               charge_power_per_sec = crit_bonus_pps+charge_power_per_sec
               total_power_per_sec = power_per_sec
               should_use_charge = 0
