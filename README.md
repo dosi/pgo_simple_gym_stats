@@ -3,9 +3,9 @@ Simplified gym stats for all pokemon &amp; move combinations.
 
 Ready .xls table with headers and ability to input your own IV and level is provided in gym_stats.xls 
 
-Gym attack% (Att%) is relative score based on att*def*sta*[attack dps]
+Gym attack% (Att%) is relative score based on att * def * sta * [attack dps]
 
-Gym def% (Def%) is relative score based on att*def*sta*[defender dps],
+Gym def% (Def%) is relative score based on att * def * sta * [defender dps],
 assuming that dodging results in 30% reduction of defender charge move dps.
 No energy gain for hp loss is taken into account for Att% or Def%.
 
@@ -18,7 +18,7 @@ on the far right of the first sheet.
 
 Training (Train%) gives you the pokemon's relative effectiveness on gym attack
 at any fixed CP compared to other 'mons. More precisely, this is:
-Att^(-1/2)*Def^(1/4)*Sta^(1/4)*[attack dps]
+Att^(-1/2) * Def^(1/4) * Sta^(1/4) * [attack dps]
 Level does not affect pokemon's training ability at a fixed CP.
 
 * STAB is taken into account.
@@ -43,7 +43,7 @@ The python script that was used to create a base .csv which turned into the .xls
 Based on data from: https://gist.github.com/ryankane/daa3aa2de9fce01bbd12e60275218636 .
 Crit rates and recent (2016-07-30) changes to powers of moves are based on data from: https://thesilphroad.com/research -> moves.
 
-Data is renamed and replicated under the json*-files of this project.
+Data is renamed and replicated under the json-files of this project.
 
 New data for gen 2 from:
 https://docs.google.com/spreadsheets/d/1UoI5ZZxcTWDlLEcvJMIxjlhM59_PAQN0cuncyN_af9U/edit#gid=1035542295
