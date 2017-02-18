@@ -2,8 +2,8 @@ import sys
 import json
 from pprint import pprint
 
-data_mtype_fn = 'data_mtype.json'
-data_ptype_fn = 'data_ptype.json'
+data_mtype_fn = 'data_mtype_new.json'
+data_ptype_fn = 'data_ptype_new_and_last_legacy.json'
 
 with open(data_mtype_fn) as mfile:
   mdata = json.load(mfile)
@@ -33,9 +33,11 @@ crit_in_game = False
 
 for pentry in pdata:
   #for mkey in pentry["Quick Attacks"]:
-  for mkey in pentry["Quick Moves"]:
+  set_of_quick_moves = set(pentry["Quick Moves"])
+  #for mkey in pentry["Quick Moves"]:
+  for mkey in set_of_quick_moves:
     for mentry in mdata:
-      if mentry["ID"] == mkey and mentry.get("Power") and mentry.get("Duration (ms)"):
+      if mentry["Name"] == mkey and mentry.get("Power") and mentry.get("Duration (ms)"):
         pwr = mentry["Power"]
         dur = mentry["Duration (ms)"]/1000.0
         defender_dur = dur + 2.0
@@ -47,11 +49,12 @@ for pentry in pdata:
             multip = 1.25
         power_per_sec = power_per_sec*multip
         defender_power_per_sec = defender_power_per_sec*multip
-
-
-        for charge_key in pentry["Cinematic Moves"]:
+        
+        set_of_cinematic_moves = set(pentry["Cinematic Moves"])
+        #for charge_key in pentry["Cinematic Moves"]:
+        for charge_key in set_of_cinematic_moves:
           for charge_move_entry in mdata:
-            if charge_move_entry["ID"] == charge_key and charge_move_entry.get("Power") and charge_move_entry.get("Duration (ms)"):
+            if charge_move_entry["Name"] == charge_key and charge_move_entry.get("Power") and charge_move_entry.get("Duration (ms)"):
               charge_pwr = charge_move_entry["Power"]
               charge_dur = charge_move_entry["Duration (ms)"]/1000.0
               charge_power_per_sec = charge_pwr/charge_dur
@@ -64,7 +67,8 @@ for pentry in pdata:
               print(str(pentry["Name"]))
               print(str(mentry["Name"]))
               print(str(charge_move_entry["Name"]))
-              crit_bonus_pps = 0.5*power_per_sec*charge_move_entry["Crit"]
+              #crit_bonus_pps = 0.5*power_per_sec*charge_move_entry["Crit"]
+              crit_bonus_pps =0 # no crit in new data, not in game either -> no worries for now
               if not crit_in_game:
                 crit_bonus_pps = 0
               charge_power_per_sec = crit_bonus_pps+charge_power_per_sec

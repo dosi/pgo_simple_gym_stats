@@ -1,0 +1,1063 @@
+[ {
+    "Name": "WRAP",
+    "Type": "NORMAL",
+    "Power": 60,
+    "Duration (ms)": 2900,
+    "Energy Delta": -33
+}, {
+    "Name": "HYPER_BEAM",
+    "Type": "NORMAL",
+    "Power": 150,
+    "Duration (ms)": 3800,
+    "Energy Delta": -100
+}, {
+    "Name": "DARK_PULSE",
+    "Type": "DARK",
+    "Power": 80,
+    "Duration (ms)": 3000,
+    "Energy Delta": -50
+}, {
+    "Name": "SLUDGE",
+    "Type": "POISON",
+    "Power": 50,
+    "Duration (ms)": 2100,
+    "Energy Delta": -33
+}, {
+    "Name": "VICE_GRIP",
+    "Type": "NORMAL",
+    "Power": 35,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "FLAME_WHEEL",
+    "Type": "FIRE",
+    "Power": 60,
+    "Duration (ms)": 2700,
+    "Energy Delta": -50
+}, {
+    "Name": "MEGAHORN",
+    "Type": "BUG",
+    "Power": 90,
+    "Duration (ms)": 2200,
+    "Energy Delta": -100
+}, {
+    "Name": "FLAMETHROWER",
+    "Type": "FIRE",
+    "Power": 70,
+    "Duration (ms)": 2200,
+    "Energy Delta": -50
+}, {
+    "Name": "DIG",
+    "Type": "GROUND",
+    "Power": 100,
+    "Duration (ms)": 4700,
+    "Energy Delta": -50
+}, {
+    "Name": "CROSS_CHOP",
+    "Type": "FIGHTING",
+    "Power": 50,
+    "Duration (ms)": 1500,
+    "Energy Delta": -50
+}, {
+    "Name": "PSYBEAM",
+    "Type": "PSYCHIC",
+    "Power": 70,
+    "Duration (ms)": 3200,
+    "Energy Delta": -50
+}, {
+    "Name": "EARTHQUAKE",
+    "Type": "GROUND",
+    "Power": 120,
+    "Duration (ms)": 3600,
+    "Energy Delta": -100
+}, {
+    "Name": "STONE_EDGE",
+    "Type": "ROCK",
+    "Power": 100,
+    "Duration (ms)": 2300,
+    "Energy Delta": -100
+}, {
+    "Name": "ICE_PUNCH",
+    "Type": "ICE",
+    "Power": 50,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "HEART_STAMP",
+    "Type": "PSYCHIC",
+    "Power": 40,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "DISCHARGE",
+    "Type": "ELECTRIC",
+    "Power": 65,
+    "Duration (ms)": 2500,
+    "Energy Delta": -33
+}, {
+    "Name": "FLASH_CANNON",
+    "Type": "STEEL",
+    "Power": 100,
+    "Duration (ms)": 2700,
+    "Energy Delta": -100
+}, {
+    "Name": "DRILL_PECK",
+    "Type": "FLYING",
+    "Power": 60,
+    "Duration (ms)": 2300,
+    "Energy Delta": -33
+}, {
+    "Name": "ICE_BEAM",
+    "Type": "ICE",
+    "Power": 90,
+    "Duration (ms)": 3300,
+    "Energy Delta": -50
+}, {
+    "Name": "BLIZZARD",
+    "Type": "ICE",
+    "Power": 130,
+    "Duration (ms)": 3100,
+    "Energy Delta": -100
+}, {
+    "Name": "HEAT_WAVE",
+    "Type": "FIRE",
+    "Power": 95,
+    "Duration (ms)": 3000,
+    "Energy Delta": -100
+}, {
+    "Name": "AERIAL_ACE",
+    "Type": "FLYING",
+    "Power": 55,
+    "Duration (ms)": 2400,
+    "Energy Delta": -33
+}, {
+    "Name": "DRILL_RUN",
+    "Type": "GROUND",
+    "Power": 80,
+    "Duration (ms)": 2800,
+    "Energy Delta": -50
+}, {
+    "Name": "PETAL_BLIZZARD",
+    "Type": "GRASS",
+    "Power": 110,
+    "Duration (ms)": 2600,
+    "Energy Delta": -100
+}, {
+    "Name": "MEGA_DRAIN",
+    "Type": "GRASS",
+    "Power": 25,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "BUG_BUZZ",
+    "Type": "BUG",
+    "Power": 90,
+    "Duration (ms)": 3700,
+    "Energy Delta": -50
+}, {
+    "Name": "POISON_FANG",
+    "Type": "POISON",
+    "Power": 35,
+    "Duration (ms)": 1700,
+    "Energy Delta": -33
+}, {
+    "Name": "NIGHT_SLASH",
+    "Type": "DARK",
+    "Power": 50,
+    "Duration (ms)": 2200,
+    "Energy Delta": -33
+}, {
+    "Name": "BUBBLE_BEAM",
+    "Type": "WATER",
+    "Power": 45,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "SUBMISSION",
+    "Type": "FIGHTING",
+    "Power": 60,
+    "Duration (ms)": 2200,
+    "Energy Delta": -50
+}, {
+    "Name": "LOW_SWEEP",
+    "Type": "FIGHTING",
+    "Power": 40,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "AQUA_JET",
+    "Type": "WATER",
+    "Power": 45,
+    "Duration (ms)": 2600,
+    "Energy Delta": -33
+}, {
+    "Name": "AQUA_TAIL",
+    "Type": "WATER",
+    "Power": 50,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "SEED_BOMB",
+    "Type": "GRASS",
+    "Power": 55,
+    "Duration (ms)": 2100,
+    "Energy Delta": -33
+}, {
+    "Name": "PSYSHOCK",
+    "Type": "PSYCHIC",
+    "Power": 65,
+    "Duration (ms)": 2700,
+    "Energy Delta": -33
+}, {
+    "Name": "ANCIENT_POWER",
+    "Type": "ROCK",
+    "Power": 70,
+    "Duration (ms)": 3500,
+    "Energy Delta": -33
+}, {
+    "Name": "ROCK_TOMB",
+    "Type": "ROCK",
+    "Power": 70,
+    "Duration (ms)": 3200,
+    "Energy Delta": -50
+}, {
+    "Name": "ROCK_SLIDE",
+    "Type": "ROCK",
+    "Power": 80,
+    "Duration (ms)": 2700,
+    "Energy Delta": -50
+}, {
+    "Name": "POWER_GEM",
+    "Type": "ROCK",
+    "Power": 80,
+    "Duration (ms)": 2900,
+    "Energy Delta": -50
+}, {
+    "Name": "SHADOW_SNEAK",
+    "Type": "GHOST",
+    "Power": 50,
+    "Duration (ms)": 2900,
+    "Energy Delta": -33
+}, {
+    "Name": "SHADOW_PUNCH",
+    "Type": "GHOST",
+    "Power": 40,
+    "Duration (ms)": 1700,
+    "Energy Delta": -33
+}, {
+    "Name": "OMINOUS_WIND",
+    "Type": "GHOST",
+    "Power": 50,
+    "Duration (ms)": 2300,
+    "Energy Delta": -33
+}, {
+    "Name": "SHADOW_BALL",
+    "Type": "GHOST",
+    "Power": 100,
+    "Duration (ms)": 3000,
+    "Energy Delta": -50
+}, {
+    "Name": "MAGNET_BOMB",
+    "Type": "STEEL",
+    "Power": 70,
+    "Duration (ms)": 2800,
+    "Energy Delta": -33
+}, {
+    "Name": "IRON_HEAD",
+    "Type": "STEEL",
+    "Power": 60,
+    "Duration (ms)": 1900,
+    "Energy Delta": -50
+}, {
+    "Name": "PARABOLIC_CHARGE",
+    "Type": "ELECTRIC",
+    "Power": 25,
+    "Duration (ms)": 2800,
+    "Energy Delta": -50
+}, {
+    "Name": "THUNDER_PUNCH",
+    "Type": "ELECTRIC",
+    "Power": 45,
+    "Duration (ms)": 1800,
+    "Energy Delta": -33
+}, {
+    "Name": "THUNDER",
+    "Type": "ELECTRIC",
+    "Power": 100,
+    "Duration (ms)": 2400,
+    "Energy Delta": -100
+}, {
+    "Name": "THUNDERBOLT",
+    "Type": "ELECTRIC",
+    "Power": 80,
+    "Duration (ms)": 2500,
+    "Energy Delta": -50
+}, {
+    "Name": "TWISTER",
+    "Type": "DRAGON",
+    "Power": 45,
+    "Duration (ms)": 2800,
+    "Energy Delta": -33
+}, {
+    "Name": "DRAGON_PULSE",
+    "Type": "DRAGON",
+    "Power": 90,
+    "Duration (ms)": 3600,
+    "Energy Delta": -50
+}, {
+    "Name": "DRAGON_CLAW",
+    "Type": "DRAGON",
+    "Power": 50,
+    "Duration (ms)": 1700,
+    "Energy Delta": -33
+}, {
+    "Name": "DISARMING_VOICE",
+    "Type": "FAIRY",
+    "Power": 70,
+    "Duration (ms)": 3900,
+    "Energy Delta": -33
+}, {
+    "Name": "DRAINING_KISS",
+    "Type": "FAIRY",
+    "Power": 60,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "DAZZLING_GLEAM",
+    "Type": "FAIRY",
+    "Power": 100,
+    "Duration (ms)": 3500,
+    "Energy Delta": -50
+}, {
+    "Name": "MOONBLAST",
+    "Type": "FAIRY",
+    "Power": 130,
+    "Duration (ms)": 3900,
+    "Energy Delta": -100
+}, {
+    "Name": "PLAY_ROUGH",
+    "Type": "FAIRY",
+    "Power": 90,
+    "Duration (ms)": 2900,
+    "Energy Delta": -50
+}, {
+    "Name": "CROSS_POISON",
+    "Type": "POISON",
+    "Power": 40,
+    "Duration (ms)": 1500,
+    "Energy Delta": -33
+}, {
+    "Name": "SLUDGE_BOMB",
+    "Type": "POISON",
+    "Power": 80,
+    "Duration (ms)": 2300,
+    "Energy Delta": -50
+}, {
+    "Name": "SLUDGE_WAVE",
+    "Type": "POISON",
+    "Power": 110,
+    "Duration (ms)": 3200,
+    "Energy Delta": -100
+}, {
+    "Name": "GUNK_SHOT",
+    "Type": "POISON",
+    "Power": 130,
+    "Duration (ms)": 3100,
+    "Energy Delta": -100
+}, {
+    "Name": "BONE_CLUB",
+    "Type": "GROUND",
+    "Power": 40,
+    "Duration (ms)": 1600,
+    "Energy Delta": -33
+}, {
+    "Name": "BULLDOZE",
+    "Type": "GROUND",
+    "Power": 80,
+    "Duration (ms)": 3500,
+    "Energy Delta": -50
+}, {
+    "Name": "MUD_BOMB",
+    "Type": "GROUND",
+    "Power": 55,
+    "Duration (ms)": 2300,
+    "Energy Delta": -33
+}, {
+    "Name": "SIGNAL_BEAM",
+    "Type": "BUG",
+    "Power": 75,
+    "Duration (ms)": 2900,
+    "Energy Delta": -50
+}, {
+    "Name": "X_SCISSOR",
+    "Type": "BUG",
+    "Power": 45,
+    "Duration (ms)": 1600,
+    "Energy Delta": -33
+}, {
+    "Name": "FLAME_CHARGE",
+    "Type": "FIRE",
+    "Power": 70,
+    "Duration (ms)": 3800,
+    "Energy Delta": -33
+}, {
+    "Name": "FLAME_BURST",
+    "Type": "FIRE",
+    "Power": 70,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "FIRE_BLAST",
+    "Type": "FIRE",
+    "Power": 140,
+    "Duration (ms)": 4200,
+    "Energy Delta": -100
+}, {
+    "Name": "BRINE",
+    "Type": "WATER",
+    "Power": 60,
+    "Duration (ms)": 2300,
+    "Energy Delta": -50
+}, {
+    "Name": "WATER_PULSE",
+    "Type": "WATER",
+    "Power": 70,
+    "Duration (ms)": 3200,
+    "Energy Delta": -50
+}, {
+    "Name": "SCALD",
+    "Type": "WATER",
+    "Power": 80,
+    "Duration (ms)": 3700,
+    "Energy Delta": -50
+}, {
+    "Name": "HYDRO_PUMP",
+    "Type": "WATER",
+    "Power": 130,
+    "Duration (ms)": 3300,
+    "Energy Delta": -100
+}, {
+    "Name": "PSYCHIC",
+    "Type": "PSYCHIC",
+    "Power": 100,
+    "Duration (ms)": 2800,
+    "Energy Delta": -100
+}, {
+    "Name": "PSYSTRIKE",
+    "Type": "PSYCHIC",
+    "Power": 100,
+    "Duration (ms)": 4400,
+    "Energy Delta": -50
+}, {
+    "Name": "ICY_WIND",
+    "Type": "ICE",
+    "Power": 60,
+    "Duration (ms)": 3300,
+    "Energy Delta": -33
+}, {
+    "Name": "GIGA_DRAIN",
+    "Type": "GRASS",
+    "Power": 50,
+    "Duration (ms)": 3900,
+    "Energy Delta": -100
+}, {
+    "Name": "FIRE_PUNCH",
+    "Type": "FIRE",
+    "Power": 55,
+    "Duration (ms)": 2200,
+    "Energy Delta": -33
+}, {
+    "Name": "SOLAR_BEAM",
+    "Type": "GRASS",
+    "Power": 180,
+    "Duration (ms)": 4900,
+    "Energy Delta": -100
+}, {
+    "Name": "LEAF_BLADE",
+    "Type": "GRASS",
+    "Power": 70,
+    "Duration (ms)": 2400,
+    "Energy Delta": -33
+}, {
+    "Name": "POWER_WHIP",
+    "Type": "GRASS",
+    "Power": 90,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "AIR_CUTTER",
+    "Type": "FLYING",
+    "Power": 60,
+    "Duration (ms)": 2700,
+    "Energy Delta": -50
+}, {
+    "Name": "HURRICANE",
+    "Type": "FLYING",
+    "Power": 110,
+    "Duration (ms)": 2700,
+    "Energy Delta": -100
+}, {
+    "Name": "BRICK_BREAK",
+    "Type": "FIGHTING",
+    "Power": 40,
+    "Duration (ms)": 1600,
+    "Energy Delta": -33
+}, {
+    "Name": "SWIFT",
+    "Type": "NORMAL",
+    "Power": 60,
+    "Duration (ms)": 2800,
+    "Energy Delta": -50
+}, {
+    "Name": "HORN_ATTACK",
+    "Type": "NORMAL",
+    "Power": 40,
+    "Duration (ms)": 1850,
+    "Energy Delta": -33
+}, {
+    "Name": "STOMP",
+    "Type": "NORMAL",
+    "Power": 55,
+    "Duration (ms)": 1700,
+    "Energy Delta": -50
+}, {
+    "Name": "HYPER_FANG",
+    "Type": "NORMAL",
+    "Power": 80,
+    "Duration (ms)": 2500,
+    "Energy Delta": -50
+}, {
+    "Name": "BODY_SLAM",
+    "Type": "NORMAL",
+    "Power": 50,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "REST",
+    "Type": "NORMAL",
+    "Power": 50,
+    "Duration (ms)": 1900,
+    "Energy Delta": -33
+}, {
+    "Name": "STRUGGLE",
+    "Type": "NORMAL",
+    "Power": 35,
+    "Duration (ms)": 2200,
+    "Energy Delta": -33
+}, {
+    "Name": "SCALD_BLASTOISE",
+    "Type": "WATER",
+    "Power": 50,
+    "Duration (ms)": 4700,
+    "Energy Delta": -100
+}, {
+    "Name": "HYDRO_PUMP_BLASTOISE",
+    "Type": "WATER",
+    "Power": 90,
+    "Duration (ms)": 4500,
+    "Energy Delta": -100
+}, {
+    "Name": "WRAP_GREEN",
+    "Type": "NORMAL",
+    "Power": 25,
+    "Duration (ms)": 2900,
+    "Energy Delta": -33
+}, {
+    "Name": "WRAP_PINK",
+    "Type": "NORMAL",
+    "Power": 25,
+    "Duration (ms)": 2900,
+    "Energy Delta": -33
+}, {
+    "Name": "FURY_CUTTER_FAST",
+    "Type": "BUG",
+    "Power": 3,
+    "Duration (ms)": 900,
+    "Energy Delta": 6
+}, {
+    "Name": "BUG_BITE_FAST",
+    "Type": "BUG",
+    "Power": 5,
+    "Duration (ms)": 950,
+    "Energy Delta": 6
+}, {
+    "Name": "BITE_FAST",
+    "Type": "DARK",
+    "Power": 10,
+    "Duration (ms)": 1000,
+    "Energy Delta": 6
+}, {
+    "Name": "SUCKER_PUNCH_FAST",
+    "Type": "DARK",
+    "Power": 8,
+    "Duration (ms)": 1200,
+    "Energy Delta": 9
+}, {
+    "Name": "DRAGON_BREATH_FAST",
+    "Type": "DRAGON",
+    "Power": 12,
+    "Duration (ms)": 1000,
+    "Energy Delta": 5
+}, {
+    "Name": "THUNDER_SHOCK_FAST",
+    "Type": "ELECTRIC",
+    "Power": 6,
+    "Duration (ms)": 1100,
+    "Energy Delta": 9
+}, {
+    "Name": "SPARK_FAST",
+    "Type": "ELECTRIC",
+    "Power": 8,
+    "Duration (ms)": 1200,
+    "Energy Delta": 8
+}, {
+    "Name": "LOW_KICK_FAST",
+    "Type": "FIGHTING",
+    "Power": 6,
+    "Duration (ms)": 1100,
+    "Energy Delta": 8
+}, {
+    "Name": "KARATE_CHOP_FAST",
+    "Type": "FIGHTING",
+    "Power": 8,
+    "Duration (ms)": 1300,
+    "Energy Delta": 10
+}, {
+    "Name": "EMBER_FAST",
+    "Type": "FIRE",
+    "Power": 10,
+    "Duration (ms)": 1500,
+    "Energy Delta": 10
+}, {
+    "Name": "WING_ATTACK_FAST",
+    "Type": "FLYING",
+    "Power": 10,
+    "Duration (ms)": 1250,
+    "Energy Delta": 10
+}, {
+    "Name": "PECK_FAST",
+    "Type": "FLYING",
+    "Power": 10,
+    "Duration (ms)": 1500,
+    "Energy Delta": 10
+}, {
+    "Name": "LICK_FAST",
+    "Type": "GHOST",
+    "Power": 5,
+    "Duration (ms)": 1000,
+    "Energy Delta": 6
+}, {
+    "Name": "SHADOW_CLAW_FAST",
+    "Type": "GHOST",
+    "Power": 12,
+    "Duration (ms)": 1200,
+    "Energy Delta": 6
+}, {
+    "Name": "VINE_WHIP_FAST",
+    "Type": "GRASS",
+    "Power": 8,
+    "Duration (ms)": 1100,
+    "Energy Delta": 7
+}, {
+    "Name": "RAZOR_LEAF_FAST",
+    "Type": "GRASS",
+    "Power": 15,
+    "Duration (ms)": 1500,
+    "Energy Delta": 8
+}, {
+    "Name": "MUD_SHOT_FAST",
+    "Type": "GROUND",
+    "Power": 9,
+    "Duration (ms)": 1050,
+    "Energy Delta": 7
+}, {
+    "Name": "ICE_SHARD_FAST",
+    "Type": "ICE",
+    "Power": 12,
+    "Duration (ms)": 1700,
+    "Energy Delta": 12
+}, {
+    "Name": "FROST_BREATH_FAST",
+    "Type": "ICE",
+    "Power": 10,
+    "Duration (ms)": 1400,
+    "Energy Delta": 7
+}, {
+    "Name": "QUICK_ATTACK_FAST",
+    "Type": "NORMAL",
+    "Power": 10,
+    "Duration (ms)": 1250,
+    "Energy Delta": 8
+}, {
+    "Name": "SCRATCH_FAST",
+    "Type": "NORMAL",
+    "Power": 12,
+    "Duration (ms)": 1000,
+    "Energy Delta": 7
+}, {
+    "Name": "TACKLE_FAST",
+    "Type": "NORMAL",
+    "Power": 10,
+    "Duration (ms)": 1000,
+    "Energy Delta": 5
+}, {
+    "Name": "POUND_FAST",
+    "Type": "NORMAL",
+    "Power": 8,
+    "Duration (ms)": 1040,
+    "Energy Delta": 7
+}, {
+    "Name": "CUT_FAST",
+    "Type": "NORMAL",
+    "Power": 10,
+    "Duration (ms)": 1000,
+    "Energy Delta": 5
+}, {
+    "Name": "POISON_JAB_FAST",
+    "Type": "POISON",
+    "Power": 12,
+    "Duration (ms)": 1300,
+    "Energy Delta": 8
+}, {
+    "Name": "ACID_FAST",
+    "Type": "POISON",
+    "Power": 10,
+    "Duration (ms)": 1300,
+    "Energy Delta": 9
+}, {
+    "Name": "PSYCHO_CUT_FAST",
+    "Type": "PSYCHIC",
+    "Power": 8,
+    "Duration (ms)": 1070,
+    "Energy Delta": 8
+}, {
+    "Name": "ROCK_THROW_FAST",
+    "Type": "ROCK",
+    "Power": 12,
+    "Duration (ms)": 1400,
+    "Energy Delta": 10
+}, {
+    "Name": "METAL_CLAW_FAST",
+    "Type": "STEEL",
+    "Power": 8,
+    "Duration (ms)": 1130,
+    "Energy Delta": 7
+}, {
+    "Name": "BULLET_PUNCH_FAST",
+    "Type": "STEEL",
+    "Power": 12,
+    "Duration (ms)": 1400,
+    "Energy Delta": 10
+}, {
+    "Name": "WATER_GUN_FAST",
+    "Type": "WATER",
+    "Power": 10,
+    "Duration (ms)": 1000,
+    "Energy Delta": 6
+}, {
+    "Name": "SPLASH_FAST",
+    "Type": "WATER",
+    "Power": 0,
+    "Duration (ms)": 1730,
+    "Energy Delta": 20
+}, {
+    "Name": "WATER_GUN_FAST_BLASTOISE",
+    "Type": "WATER",
+    "Power": 10,
+    "Duration (ms)": 1000,
+    "Energy Delta": 6
+}, {
+    "Name": "MUD_SLAP_FAST",
+    "Type": "GROUND",
+    "Power": 15,
+    "Duration (ms)": 1850,
+    "Energy Delta": 12
+}, {
+    "Name": "ZEN_HEADBUTT_FAST",
+    "Type": "PSYCHIC",
+    "Power": 12,
+    "Duration (ms)": 1550,
+    "Energy Delta": 10
+}, {
+    "Name": "CONFUSION_FAST",
+    "Type": "PSYCHIC",
+    "Power": 20,
+    "Duration (ms)": 2100,
+    "Energy Delta": 10
+}, {
+    "Name": "POISON_STING_FAST",
+    "Type": "POISON",
+    "Power": 6,
+    "Duration (ms)": 1075,
+    "Energy Delta": 8
+}, {
+    "Name": "BUBBLE_FAST",
+    "Type": "WATER",
+    "Power": 15,
+    "Duration (ms)": 1700,
+    "Energy Delta": 12
+}, {
+    "Name": "FEINT_ATTACK_FAST",
+    "Type": "DARK",
+    "Power": 12,
+    "Duration (ms)": 1400,
+    "Energy Delta": 10
+}, {
+    "Name": "STEEL_WING_FAST",
+    "Type": "STEEL",
+    "Power": 12,
+    "Duration (ms)": 1300,
+    "Energy Delta": 8
+}, {
+    "Name": "FIRE_FANG_FAST",
+    "Type": "FIRE",
+    "Power": 12,
+    "Duration (ms)": 1340,
+    "Energy Delta": 10
+}, {
+    "Name": "ROCK_SMASH_FAST",
+    "Type": "FIGHTING",
+    "Power": 15,
+    "Duration (ms)": 1700,
+    "Energy Delta": 10
+}, {
+    "Name": "TRANSFORM_FAST",
+    "Type": "NORMAL",
+    "Power": 0,
+    "Duration (ms)": 2230,
+    "Energy Delta": 0
+}, {
+    "Name": "COUNTER_FAST",
+    "Type": "FIGHTING",
+    "Power": 10,
+    "Duration (ms)": 900,
+    "Energy Delta": 8
+}, {
+    "Name": "POWDER_SNOW_FAST",
+    "Type": "ICE",
+    "Power": 6,
+    "Duration (ms)": 1000,
+    "Energy Delta": 15
+}, {
+    "Name": "CLOSE_COMBAT",
+    "Type": "FIGHTING",
+    "Power": 100,
+    "Duration (ms)": 2300,
+    "Energy Delta": -100
+}, {
+    "Name": "DYNAMIC_PUNCH",
+    "Type": "FIGHTING",
+    "Power": 90,
+    "Duration (ms)": 2700,
+    "Energy Delta": -50
+}, {
+    "Name": "FOCUS_BLAST",
+    "Type": "FIGHTING",
+    "Power": 140,
+    "Duration (ms)": 3500,
+    "Energy Delta": -100
+}, {
+    "Name": "AURORA_BEAM",
+    "Type": "ICE",
+    "Power": 80,
+    "Duration (ms)": 3550,
+    "Energy Delta": -50
+}, {
+    "Name": "CHARGE_BEAM_FAST",
+    "Type": "ELECTRIC",
+    "Power": 8,
+    "Duration (ms)": 1550,
+    "Energy Delta": 15
+}, {
+    "Name": "VOLT_SWITCH_FAST",
+    "Type": "ELECTRIC",
+    "Power": 12,
+    "Duration (ms)": 2300,
+    "Energy Delta": 20
+}, {
+    "Name": "WILD_CHARGE",
+    "Type": "ELECTRIC",
+    "Power": 90,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "ZAP_CANNON",
+    "Type": "ELECTRIC",
+    "Power": 140,
+    "Duration (ms)": 3700,
+    "Energy Delta": -100
+}, {
+    "Name": "DRAGON_TAIL_FAST",
+    "Type": "DRAGON",
+    "Power": 15,
+    "Duration (ms)": 1550,
+    "Energy Delta": 6
+}, {
+    "Name": "AVALANCHE",
+    "Type": "ICE",
+    "Power": 90,
+    "Duration (ms)": 2700,
+    "Energy Delta": -50
+}, {
+    "Name": "AIR_SLASH_FAST",
+    "Type": "FLYING",
+    "Power": 12,
+    "Duration (ms)": 1200,
+    "Energy Delta": 10
+}, {
+    "Name": "BRAVE_BIRD",
+    "Type": "FLYING",
+    "Power": 90,
+    "Duration (ms)": 2000,
+    "Energy Delta": -100
+}, {
+    "Name": "SKY_ATTACK",
+    "Type": "FLYING",
+    "Power": 70,
+    "Duration (ms)": 2000,
+    "Energy Delta": -50
+}, {
+    "Name": "SAND_TOMB",
+    "Type": "GROUND",
+    "Power": 80,
+    "Duration (ms)": 4000,
+    "Energy Delta": -50
+}, {
+    "Name": "ROCK_BLAST",
+    "Type": "ROCK",
+    "Power": 50,
+    "Duration (ms)": 2100,
+    "Energy Delta": -33
+}, {
+    "Name": "INFESTATION_FAST",
+    "Type": "BUG",
+    "Power": 10,
+    "Duration (ms)": 1550,
+    "Energy Delta": 14
+}, {
+    "Name": "STRUGGLE_BUG_FAST",
+    "Type": "BUG",
+    "Power": 6,
+    "Duration (ms)": 1500,
+    "Energy Delta": 12
+}, {
+    "Name": "SILVER_WIND",
+    "Type": "BUG",
+    "Power": 70,
+    "Duration (ms)": 3700,
+    "Energy Delta": -33
+}, {
+    "Name": "ASTONISH_FAST",
+    "Type": "GHOST",
+    "Power": 8,
+    "Duration (ms)": 1050,
+    "Energy Delta": 12
+}, {
+    "Name": "HEX_FAST",
+    "Type": "GHOST",
+    "Power": 10,
+    "Duration (ms)": 1200,
+    "Energy Delta": 15
+}, {
+    "Name": "NIGHT_SHADE",
+    "Type": "GHOST",
+    "Power": 60,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "IRON_TAIL_FAST",
+    "Type": "STEEL",
+    "Power": 15,
+    "Duration (ms)": 1550,
+    "Energy Delta": 6
+}, {
+    "Name": "GYRO_BALL",
+    "Type": "STEEL",
+    "Power": 80,
+    "Duration (ms)": 3300,
+    "Energy Delta": -50
+}, {
+    "Name": "HEAVY_SLAM",
+    "Type": "STEEL",
+    "Power": 70,
+    "Duration (ms)": 2100,
+    "Energy Delta": -50
+}, {
+    "Name": "FIRE_SPIN_FAST",
+    "Type": "FIRE",
+    "Power": 15,
+    "Duration (ms)": 1550,
+    "Energy Delta": 10
+}, {
+    "Name": "OVERHEAT",
+    "Type": "FIRE",
+    "Power": 160,
+    "Duration (ms)": 4000,
+    "Energy Delta": -100
+}, {
+    "Name": "BULLET_SEED_FAST",
+    "Type": "GRASS",
+    "Power": 8,
+    "Duration (ms)": 1550,
+    "Energy Delta": 12
+}, {
+    "Name": "GRASS_KNOT",
+    "Type": "GRASS",
+    "Power": 90,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "ENERGY_BALL",
+    "Type": "GRASS",
+    "Power": 90,
+    "Duration (ms)": 3900,
+    "Energy Delta": -50
+}, {
+    "Name": "EXTRASENSORY_FAST",
+    "Type": "PSYCHIC",
+    "Power": 12,
+    "Duration (ms)": 1550,
+    "Energy Delta": 12
+}, {
+    "Name": "FUTURESIGHT",
+    "Type": "PSYCHIC",
+    "Power": 120,
+    "Duration (ms)": 2700,
+    "Energy Delta": -100
+}, {
+    "Name": "MIRROR_COAT",
+    "Type": "PSYCHIC",
+    "Power": 60,
+    "Duration (ms)": 2600,
+    "Energy Delta": -50
+}, {
+    "Name": "OUTRAGE",
+    "Type": "DRAGON",
+    "Power": 110,
+    "Duration (ms)": 3900,
+    "Energy Delta": -50
+}, {
+    "Name": "SNARL_FAST",
+    "Type": "DARK",
+    "Power": 12,
+    "Duration (ms)": 1550,
+    "Energy Delta": 12
+}, {
+    "Name": "CRUNCH",
+    "Type": "DARK",
+    "Power": 70,
+    "Duration (ms)": 3200,
+    "Energy Delta": -33
+}, {
+    "Name": "FOUL_PLAY",
+    "Type": "DARK",
+    "Power": 70,
+    "Duration (ms)": 2000,
+    "Energy Delta": -50
+}, {
+    "Name": "HIDDEN_POWER_FAST",
+    "Type": "NORMAL",
+    "Power": 10,
+    "Duration (ms)": 1500,
+    "Energy Delta": 15
+} ]
