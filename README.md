@@ -43,7 +43,11 @@ The python script that was used to create a base .csv which turned into the .xls
 Based on data from: https://gist.github.com/ryankane/daa3aa2de9fce01bbd12e60275218636 .
 Crit rates and recent (2016-07-30) changes to powers of moves are based on data from: https://thesilphroad.com/research -> moves.
 
-Data is renamed and replicated under the json_data folder of this project.
+Data is renamed and replicated under the json*-files of this project.
+
+New data for gen 2 from:
+https://docs.google.com/spreadsheets/d/1UoI5ZZxcTWDlLEcvJMIxjlhM59_PAQN0cuncyN_af9U/edit#gid=1035542295
+posted by /u/hack_nug to TheSilphRoad topic https://www.reddit.com/r/TheSilphRoad/comments/5ujflu/readable_move_info_from_new_game_master/
 
 Basic formulas based on: https://drive.google.com/file/d/0B0TeYGBPiuzaenhUNE5UWnRCVlU/view
 
