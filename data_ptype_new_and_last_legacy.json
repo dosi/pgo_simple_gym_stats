@@ -1364,8 +1364,8 @@
     "Base Stamina": 90,
     "Base Attack": 92,
     "Base Defense": 122,
-    "Quick Moves": [ "VINE_WHIP_FAST", "TACKLE_FAST", "RAZOR_LEAF_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ENERGY_BALL", "GRASS_KNOT", "BODY_SLAM", "STRUGGLE" ]
+    "Quick Moves": [ "VINE_WHIP_FAST", "TACKLE_FAST", "" ],
+    "Cinematic Moves": [ "ENERGY_BALL", "GRASS_KNOT", "BODY_SLAM", "" ]
 }, {
     "PkMn": 153,
     "Name": "BAYLEEF",
@@ -1373,8 +1373,8 @@
     "Base Stamina": 120,
     "Base Attack": 122,
     "Base Defense": 155,
-    "Quick Moves": [ "RAZOR_LEAF_FAST", "TACKLE_FAST", "RAZOR_LEAF_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ENERGY_BALL", "GRASS_KNOT", "ANCIENT_POWER", "STRUGGLE" ]
+    "Quick Moves": [ "RAZOR_LEAF_FAST", "TACKLE_FAST", "" ],
+    "Cinematic Moves": [ "ENERGY_BALL", "GRASS_KNOT", "ANCIENT_POWER", "" ]
 }, {
     "PkMn": 154,
     "Name": "MEGANIUM",
@@ -1382,8 +1382,8 @@
     "Base Stamina": 160,
     "Base Attack": 168,
     "Base Defense": 202,
-    "Quick Moves": [ "RAZOR_LEAF_FAST", "VINE_WHIP_FAST", "RAZOR_LEAF_FAST", "VINE_WHIP_FAST" ],
-    "Cinematic Moves": [ "PETAL_BLIZZARD", "SOLAR_BEAM", "EARTHQUAKE", "STRUGGLE" ]
+    "Quick Moves": [ "RAZOR_LEAF_FAST", "VINE_WHIP_FAST", "" ],
+    "Cinematic Moves": [ "PETAL_BLIZZARD", "SOLAR_BEAM", "EARTHQUAKE", "" ]
 }, {
     "PkMn": 155,
     "Name": "CYNDAQUIL",
@@ -1391,8 +1391,8 @@
     "Base Stamina": 78,
     "Base Attack": 116,
     "Base Defense": 96,
-    "Quick Moves": [ "EMBER_FAST", "TACKLE_FAST", "EMBER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "FLAME_CHARGE", "SWIFT", "FLAMETHROWER", "STRUGGLE" ]
+    "Quick Moves": [ "EMBER_FAST", "TACKLE_FAST", "" ],
+    "Cinematic Moves": [ "FLAME_CHARGE", "SWIFT", "FLAMETHROWER", "" ]
 }, {
     "PkMn": 156,
     "Name": "QUILAVA",
@@ -1400,8 +1400,8 @@
     "Base Stamina": 116,
     "Base Attack": 158,
     "Base Defense": 129,
-    "Quick Moves": [ "EMBER_FAST", "TACKLE_FAST", "EMBER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "FLAME_CHARGE", "DIG", "FLAMETHROWER", "STRUGGLE" ]
+    "Quick Moves": [ "EMBER_FAST", "TACKLE_FAST", "" ],
+    "Cinematic Moves": [ "FLAME_CHARGE", "DIG", "FLAMETHROWER", "" ]
 }, {
     "PkMn": 157,
     "Name": "TYPHLOSION",
@@ -1409,8 +1409,8 @@
     "Base Stamina": 156,
     "Base Attack": 223,
     "Base Defense": 176,
-    "Quick Moves": [ "EMBER_FAST", "SHADOW_CLAW_FAST", "EMBER_FAST", "SHADOW_CLAW_FAST" ],
-    "Cinematic Moves": [ "FIRE_BLAST", "OVERHEAT", "SOLAR_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "EMBER_FAST", "SHADOW_CLAW_FAST", "" ],
+    "Cinematic Moves": [ "FIRE_BLAST", "OVERHEAT", "SOLAR_BEAM", "" ]
 }, {
     "PkMn": 158,
     "Name": "TOTODILE",
@@ -1418,8 +1418,8 @@
     "Base Stamina": 100,
     "Base Attack": 117,
     "Base Defense": 116,
-    "Quick Moves": [ "WATER_GUN_FAST", "SCRATCH_FAST", "WATER_GUN_FAST", "SCRATCH_FAST" ],
-    "Cinematic Moves": [ "CRUNCH", "AQUA_JET", "WATER_PULSE", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "SCRATCH_FAST", "" ],
+    "Cinematic Moves": [ "CRUNCH", "AQUA_JET", "WATER_PULSE", "" ]
 }, {
     "PkMn": 159,
     "Name": "CROCONAW",
@@ -1427,8 +1427,8 @@
     "Base Stamina": 130,
     "Base Attack": 150,
     "Base Defense": 151,
-    "Quick Moves": [ "WATER_GUN_FAST", "SCRATCH_FAST", "WATER_GUN_FAST", "SCRATCH_FAST" ],
-    "Cinematic Moves": [ "CRUNCH", "ICE_PUNCH", "WATER_PULSE", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "SCRATCH_FAST", "" ],
+    "Cinematic Moves": [ "CRUNCH", "ICE_PUNCH", "WATER_PULSE", "" ]
 }, {
     "PkMn": 160,
     "Name": "FERALIGATR",
@@ -1436,8 +1436,8 @@
     "Base Stamina": 170,
     "Base Attack": 205,
     "Base Defense": 197,
-    "Quick Moves": [ "WATER_GUN_FAST", "BITE_FAST", "WATER_GUN_FAST", "BITE_FAST" ],
-    "Cinematic Moves": [ "CRUNCH", "HYDRO_PUMP", "ICE_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "BITE_FAST", "" ],
+    "Cinematic Moves": [ "CRUNCH", "HYDRO_PUMP", "ICE_BEAM", "" ]
 }, {
     "PkMn": 161,
     "Name": "SENTRET",
@@ -1445,8 +1445,8 @@
     "Base Stamina": 70,
     "Base Attack": 79,
     "Base Defense": 77,
-    "Quick Moves": [ "SCRATCH_FAST", "QUICK_ATTACK_FAST", "SCRATCH_FAST", "QUICK_ATTACK_FAST" ],
-    "Cinematic Moves": [ "DIG", "BRICK_BREAK", "GRASS_KNOT", "STRUGGLE" ]
+    "Quick Moves": [ "SCRATCH_FAST", "QUICK_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "DIG", "BRICK_BREAK", "GRASS_KNOT", "" ]
 }, {
     "PkMn": 162,
     "Name": "FURRET",
@@ -1454,8 +1454,8 @@
     "Base Stamina": 170,
     "Base Attack": 148,
     "Base Defense": 130,
-    "Quick Moves": [ "QUICK_ATTACK_FAST", "SUCKER_PUNCH_FAST", "QUICK_ATTACK_FAST", "SUCKER_PUNCH_FAST" ],
-    "Cinematic Moves": [ "DIG", "BRICK_BREAK", "HYPER_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "QUICK_ATTACK_FAST", "SUCKER_PUNCH_FAST", "" ],
+    "Cinematic Moves": [ "DIG", "BRICK_BREAK", "HYPER_BEAM", "" ]
 }, {
     "PkMn": 163,
     "Name": "HOOTHOOT",
@@ -1463,8 +1463,8 @@
     "Base Stamina": 120,
     "Base Attack": 67,
     "Base Defense": 101,
-    "Quick Moves": [ "FEINT_ATTACK_FAST", "PECK_FAST", "TACKLE_FAST", "PECK_FAST" ],
-    "Cinematic Moves": [ "BLIZZARD", "STRUGGLE" ]
+    "Quick Moves": [ "FEINT_ATTACK_FAST", "PECK_FAST", "" ],
+    "Cinematic Moves": [ "BLIZZARD", "" ]
 }, {
     "PkMn": 164,
     "Name": "NOCTOWL",
@@ -1472,8 +1472,8 @@
     "Base Stamina": 200,
     "Base Attack": 145,
     "Base Defense": 179,
-    "Quick Moves": [ "WING_ATTACK_FAST", "EXTRASENSORY_FAST", "TACKLE_FAST", "PECK_FAST" ],
-    "Cinematic Moves": [ "PSYCHIC", "SKY_ATTACK", "NIGHT_SHADE", "STRUGGLE" ]
+    "Quick Moves": [ "WING_ATTACK_FAST", "EXTRASENSORY_FAST", "" ],
+    "Cinematic Moves": [ "PSYCHIC", "SKY_ATTACK", "NIGHT_SHADE", "" ]
 }, {
     "PkMn": 165,
     "Name": "LEDYBA",
@@ -1481,8 +1481,8 @@
     "Base Stamina": 80,
     "Base Attack": 72,
     "Base Defense": 142,
-    "Quick Moves": [ "TACKLE_FAST", "BUG_BITE_FAST", "TACKLE_FAST", "BUG_BITE_FAST" ],
-    "Cinematic Moves": [ "SILVER_WIND", "SWIFT", "AERIAL_ACE", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "BUG_BITE_FAST", "" ],
+    "Cinematic Moves": [ "SILVER_WIND", "SWIFT", "AERIAL_ACE", "" ]
 }, {
     "PkMn": 166,
     "Name": "LEDIAN",
@@ -1490,8 +1490,8 @@
     "Base Stamina": 110,
     "Base Attack": 107,
     "Base Defense": 209,
-    "Quick Moves": [ "STRUGGLE_BUG_FAST", "BUG_BITE_FAST", "TACKLE_FAST", "BUG_BITE_FAST" ],
-    "Cinematic Moves": [ "BUG_BUZZ", "SILVER_WIND", "AERIAL_ACE", "STRUGGLE" ]
+    "Quick Moves": [ "STRUGGLE_BUG_FAST", "BUG_BITE_FAST", "" ],
+    "Cinematic Moves": [ "BUG_BUZZ", "SILVER_WIND", "AERIAL_ACE", "" ]
 }, {
     "PkMn": 167,
     "Name": "SPINARAK",
@@ -1499,8 +1499,8 @@
     "Base Stamina": 80,
     "Base Attack": 105,
     "Base Defense": 73,
-    "Quick Moves": [ "POISON_STING_FAST", "BUG_BITE_FAST", "POISON_STING_FAST", "BUG_BITE_FAST" ],
-    "Cinematic Moves": [ "NIGHT_SLASH", "SIGNAL_BEAM", "CROSS_POISON", "STRUGGLE" ]
+    "Quick Moves": [ "POISON_STING_FAST", "BUG_BITE_FAST", "" ],
+    "Cinematic Moves": [ "NIGHT_SLASH", "SIGNAL_BEAM", "CROSS_POISON", "" ]
 }, {
     "PkMn": 168,
     "Name": "ARIADOS",
@@ -1508,8 +1508,8 @@
     "Base Stamina": 140,
     "Base Attack": 161,
     "Base Defense": 128,
-    "Quick Moves": [ "POISON_STING_FAST", "INFESTATION_FAST", "POISON_STING_FAST", "BUG_BITE_FAST" ],
-    "Cinematic Moves": [ "SHADOW_SNEAK", "MEGAHORN", "CROSS_POISON", "STRUGGLE" ]
+    "Quick Moves": [ "POISON_STING_FAST", "INFESTATION_FAST", "" ],
+    "Cinematic Moves": [ "SHADOW_SNEAK", "MEGAHORN", "CROSS_POISON", "" ]
 }, {
     "PkMn": 169,
     "Name": "CROBAT",
@@ -1517,8 +1517,8 @@
     "Base Stamina": 170,
     "Base Attack": 194,
     "Base Defense": 178,
-    "Quick Moves": [ "AIR_SLASH_FAST", "BITE_FAST", "WING_ATTACK_FAST", "BITE_FAST" ],
-    "Cinematic Moves": [ "SHADOW_BALL", "AIR_CUTTER", "SLUDGE_BOMB", "STRUGGLE" ]
+    "Quick Moves": [ "AIR_SLASH_FAST", "BITE_FAST", "" ],
+    "Cinematic Moves": [ "SHADOW_BALL", "AIR_CUTTER", "SLUDGE_BOMB", "" ]
 }, {
     "PkMn": 170,
     "Name": "CHINCHOU",
@@ -1526,8 +1526,8 @@
     "Base Stamina": 150,
     "Base Attack": 106,
     "Base Defense": 106,
-    "Quick Moves": [ "BUBBLE_FAST", "SPARK_FAST", "BUBBLE_FAST", "SPARK_FAST" ],
-    "Cinematic Moves": [ "WATER_PULSE", "THUNDERBOLT", "BUBBLE_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "BUBBLE_FAST", "SPARK_FAST", "" ],
+    "Cinematic Moves": [ "WATER_PULSE", "THUNDERBOLT", "BUBBLE_BEAM", "" ]
 }, {
     "PkMn": 171,
     "Name": "LANTURN",
@@ -1535,8 +1535,8 @@
     "Base Stamina": 250,
     "Base Attack": 146,
     "Base Defense": 146,
-    "Quick Moves": [ "WATER_GUN_FAST", "CHARGE_BEAM_FAST", "WATER_GUN_FAST", "SPARK_FAST" ],
-    "Cinematic Moves": [ "HYDRO_PUMP", "THUNDERBOLT", "THUNDER", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "CHARGE_BEAM_FAST", "" ],
+    "Cinematic Moves": [ "HYDRO_PUMP", "THUNDERBOLT", "THUNDER", "" ]
 }, {
     "PkMn": 172,
     "Name": "PICHU",
@@ -1544,8 +1544,8 @@
     "Base Stamina": 40,
     "Base Attack": 77,
     "Base Defense": 63,
-    "Quick Moves": [ "THUNDER_SHOCK_FAST", "THUNDER_SHOCK_FAST", "QUICK_ATTACK_FAST" ],
-    "Cinematic Moves": [ "THUNDERBOLT", "DISARMING_VOICE", "THUNDER_PUNCH", "THUNDERBOLT", "DISARMING_VOICE", "THUNDER_PUNCH" ]
+    "Quick Moves": [ "THUNDER_SHOCK_FAST", "" ],
+    "Cinematic Moves": [ "THUNDERBOLT", "DISARMING_VOICE", "THUNDER_PUNCH", "" ]
 }, {
     "PkMn": 173,
     "Name": "CLEFFA",
@@ -1553,8 +1553,8 @@
     "Base Stamina": 100,
     "Base Attack": 75,
     "Base Defense": 91,
-    "Quick Moves": [ "POUND_FAST", "ZEN_HEADBUTT_FAST", "POUND_FAST", "ZEN_HEADBUTT_FAST" ],
-    "Cinematic Moves": [ "GRASS_KNOT", "PSYSHOCK", "SIGNAL_BEAM", "BODY_SLAM", "PSYCHIC", "SIGNAL_BEAM" ]
+    "Quick Moves": [ "POUND_FAST", "ZEN_HEADBUTT_FAST", "" ],
+    "Cinematic Moves": [ "GRASS_KNOT", "PSYSHOCK", "SIGNAL_BEAM", "" ]
 }, {
     "PkMn": 174,
     "Name": "IGGLYBUFF",
@@ -1562,8 +1562,8 @@
     "Base Stamina": 180,
     "Base Attack": 69,
     "Base Defense": 34,
-    "Quick Moves": [ "POUND_FAST", "FEINT_ATTACK_FAST", "POUND_FAST", "FEINT_ATTACK_FAST" ],
-    "Cinematic Moves": [ "WILD_CHARGE", "SHADOW_BALL", "PSYCHIC", "BODY_SLAM", "SHADOW_BALL", "PSYCHIC" ]
+    "Quick Moves": [ "POUND_FAST", "FEINT_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "WILD_CHARGE", "SHADOW_BALL", "PSYCHIC", "" ]
 }, {
     "PkMn": 175,
     "Name": "TOGEPI",
@@ -1571,8 +1571,8 @@
     "Base Stamina": 70,
     "Base Attack": 67,
     "Base Defense": 116,
-    "Quick Moves": [ "HIDDEN_POWER_FAST", "PECK_FAST", "ZEN_HEADBUTT_FAST", "PECK_FAST" ],
-    "Cinematic Moves": [ "ANCIENT_POWER", "PSYSHOCK", "DAZZLING_GLEAM", "ANCIENT_POWER", "PSYSHOCK", "DAZZLING_GLEAM" ]
+    "Quick Moves": [ "HIDDEN_POWER_FAST", "PECK_FAST", "" ],
+    "Cinematic Moves": [ "ANCIENT_POWER", "PSYSHOCK", "DAZZLING_GLEAM", "" ]
 }, {
     "PkMn": 176,
     "Name": "TOGETIC",
@@ -1580,8 +1580,8 @@
     "Base Stamina": 110,
     "Base Attack": 139,
     "Base Defense": 191,
-    "Quick Moves": [ "EXTRASENSORY_FAST", "HIDDEN_POWER_FAST", "ZEN_HEADBUTT_FAST", "STEEL_WING_FAST" ],
-    "Cinematic Moves": [ "ANCIENT_POWER", "DAZZLING_GLEAM", "AERIAL_ACE", "ANCIENT_POWER", "DAZZLING_GLEAM", "AERIAL_ACE" ]
+    "Quick Moves": [ "EXTRASENSORY_FAST", "HIDDEN_POWER_FAST", "" ],
+    "Cinematic Moves": [ "ANCIENT_POWER", "DAZZLING_GLEAM", "AERIAL_ACE", "" ]
 }, {
     "PkMn": 177,
     "Name": "NATU",
@@ -1589,8 +1589,8 @@
     "Base Stamina": 80,
     "Base Attack": 134,
     "Base Defense": 89,
-    "Quick Moves": [ "PECK_FAST", "QUICK_ATTACK_FAST", "PECK_FAST" ],
-    "Cinematic Moves": [ "NIGHT_SHADE", "PSYSHOCK", "DRILL_PECK", "STRUGGLE" ]
+    "Quick Moves": [ "PECK_FAST", "QUICK_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "NIGHT_SHADE", "PSYSHOCK", "DRILL_PECK", "" ]
 }, {
     "PkMn": 178,
     "Name": "XATU",
@@ -1598,8 +1598,8 @@
     "Base Stamina": 130,
     "Base Attack": 192,
     "Base Defense": 146,
-    "Quick Moves": [ "AIR_SLASH_FAST", "FEINT_ATTACK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "OMINOUS_WIND", "FUTURESIGHT", "AERIAL_ACE", "STRUGGLE" ]
+    "Quick Moves": [ "AIR_SLASH_FAST", "FEINT_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "OMINOUS_WIND", "FUTURESIGHT", "AERIAL_ACE", "" ]
 }, {
     "PkMn": 179,
     "Name": "MAREEP",
@@ -1607,8 +1607,8 @@
     "Base Stamina": 110,
     "Base Attack": 114,
     "Base Defense": 82,
-    "Quick Moves": [ "TACKLE_FAST", "THUNDER_SHOCK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "BODY_SLAM", "THUNDERBOLT", "DISCHARGE", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "THUNDER_SHOCK_FAST", "" ],
+    "Cinematic Moves": [ "BODY_SLAM", "THUNDERBOLT", "DISCHARGE", "" ]
 }, {
     "PkMn": 180,
     "Name": "FLAAFFY",
@@ -1616,8 +1616,8 @@
     "Base Stamina": 140,
     "Base Attack": 145,
     "Base Defense": 112,
-    "Quick Moves": [ "TACKLE_FAST", "CHARGE_BEAM_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "POWER_GEM", "THUNDERBOLT", "DISCHARGE", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "CHARGE_BEAM_FAST", "" ],
+    "Cinematic Moves": [ "POWER_GEM", "THUNDERBOLT", "DISCHARGE", "" ]
 }, {
     "PkMn": 181,
     "Name": "AMPHAROS",
@@ -1625,8 +1625,8 @@
     "Base Stamina": 180,
     "Base Attack": 211,
     "Base Defense": 172,
-    "Quick Moves": [ "CHARGE_BEAM_FAST", "VOLT_SWITCH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ZAP_CANNON", "FOCUS_BLAST", "THUNDER", "STRUGGLE" ]
+    "Quick Moves": [ "CHARGE_BEAM_FAST", "VOLT_SWITCH_FAST", "" ],
+    "Cinematic Moves": [ "ZAP_CANNON", "FOCUS_BLAST", "THUNDER", "" ]
 }, {
     "PkMn": 182,
     "Name": "BELLOSSOM",
@@ -1634,8 +1634,8 @@
     "Base Stamina": 150,
     "Base Attack": 169,
     "Base Defense": 189,
-    "Quick Moves": [ "RAZOR_LEAF_FAST", "ACID_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "LEAF_BLADE", "PETAL_BLIZZARD", "DAZZLING_GLEAM", "STRUGGLE" ]
+    "Quick Moves": [ "RAZOR_LEAF_FAST", "ACID_FAST", "" ],
+    "Cinematic Moves": [ "LEAF_BLADE", "PETAL_BLIZZARD", "DAZZLING_GLEAM", "" ]
 }, {
     "PkMn": 183,
     "Name": "MARILL",
@@ -1643,8 +1643,8 @@
     "Base Stamina": 140,
     "Base Attack": 37,
     "Base Defense": 93,
-    "Quick Moves": [ "TACKLE_FAST", "BUBBLE_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "BUBBLE_BEAM", "AQUA_TAIL", "BODY_SLAM", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "BUBBLE_FAST", "" ],
+    "Cinematic Moves": [ "BUBBLE_BEAM", "AQUA_TAIL", "BODY_SLAM", "" ]
 }, {
     "PkMn": 184,
     "Name": "AZUMARILL",
@@ -1652,8 +1652,8 @@
     "Base Stamina": 200,
     "Base Attack": 112,
     "Base Defense": 152,
-    "Quick Moves": [ "ROCK_SMASH_FAST", "BUBBLE_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "PLAY_ROUGH", "HYDRO_PUMP", "ICE_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "ROCK_SMASH_FAST", "BUBBLE_FAST", "" ],
+    "Cinematic Moves": [ "PLAY_ROUGH", "HYDRO_PUMP", "ICE_BEAM", "" ]
 }, {
     "PkMn": 185,
     "Name": "SUDOWOODO",
@@ -1661,8 +1661,8 @@
     "Base Stamina": 140,
     "Base Attack": 167,
     "Base Defense": 198,
-    "Quick Moves": [ "ROCK_THROW_FAST", "COUNTER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "STONE_EDGE", "EARTHQUAKE", "ROCK_SLIDE", "STRUGGLE" ]
+    "Quick Moves": [ "ROCK_THROW_FAST", "COUNTER_FAST", "" ],
+    "Cinematic Moves": [ "STONE_EDGE", "EARTHQUAKE", "ROCK_SLIDE", "" ]
 }, {
     "PkMn": 186,
     "Name": "POLITOED",
@@ -1670,8 +1670,8 @@
     "Base Stamina": 180,
     "Base Attack": 174,
     "Base Defense": 192,
-    "Quick Moves": [ "MUD_SHOT_FAST", "BUBBLE_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "HYDRO_PUMP", "BLIZZARD", "EARTHQUAKE", "STRUGGLE" ]
+    "Quick Moves": [ "MUD_SHOT_FAST", "BUBBLE_FAST", "" ],
+    "Cinematic Moves": [ "HYDRO_PUMP", "BLIZZARD", "EARTHQUAKE", "" ]
 }, {
     "PkMn": 187,
     "Name": "HOPPIP",
@@ -1679,8 +1679,8 @@
     "Base Stamina": 70,
     "Base Attack": 67,
     "Base Defense": 101,
-    "Quick Moves": [ "TACKLE_FAST", "BULLET_SEED_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "GRASS_KNOT", "DAZZLING_GLEAM", "SEED_BOMB", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "BULLET_SEED_FAST", "" ],
+    "Cinematic Moves": [ "GRASS_KNOT", "DAZZLING_GLEAM", "SEED_BOMB", "" ]
 }, {
     "PkMn": 188,
     "Name": "SKIPLOOM",
@@ -1688,8 +1688,8 @@
     "Base Stamina": 110,
     "Base Attack": 91,
     "Base Defense": 127,
-    "Quick Moves": [ "TACKLE_FAST", "BULLET_SEED_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "GRASS_KNOT", "DAZZLING_GLEAM", "ENERGY_BALL", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "BULLET_SEED_FAST", "" ],
+    "Cinematic Moves": [ "GRASS_KNOT", "DAZZLING_GLEAM", "ENERGY_BALL", "" ]
 }, {
     "PkMn": 189,
     "Name": "JUMPLUFF",
@@ -1697,8 +1697,8 @@
     "Base Stamina": 150,
     "Base Attack": 118,
     "Base Defense": 197,
-    "Quick Moves": [ "INFESTATION_FAST", "BULLET_SEED_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ENERGY_BALL", "DAZZLING_GLEAM", "SOLAR_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "INFESTATION_FAST", "BULLET_SEED_FAST", "" ],
+    "Cinematic Moves": [ "ENERGY_BALL", "DAZZLING_GLEAM", "SOLAR_BEAM", "" ]
 }, {
     "PkMn": 190,
     "Name": "AIPOM",
@@ -1706,8 +1706,8 @@
     "Base Stamina": 110,
     "Base Attack": 136,
     "Base Defense": 112,
-    "Quick Moves": [ "SCRATCH_FAST", "ASTONISH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "LOW_SWEEP", "SWIFT", "AERIAL_ACE", "STRUGGLE" ]
+    "Quick Moves": [ "SCRATCH_FAST", "ASTONISH_FAST", "" ],
+    "Cinematic Moves": [ "LOW_SWEEP", "SWIFT", "AERIAL_ACE", "" ]
 }, {
     "PkMn": 191,
     "Name": "SUNKERN",
@@ -1715,8 +1715,8 @@
     "Base Stamina": 60,
     "Base Attack": 55,
     "Base Defense": 55,
-    "Quick Moves": [ "RAZOR_LEAF_FAST", "CUT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ENERGY_BALL", "GRASS_KNOT", "SEED_BOMB", "STRUGGLE" ]
+    "Quick Moves": [ "RAZOR_LEAF_FAST", "CUT_FAST", "" ],
+    "Cinematic Moves": [ "ENERGY_BALL", "GRASS_KNOT", "SEED_BOMB", "" ]
 }, {
     "PkMn": 192,
     "Name": "SUNFLORA",
@@ -1724,8 +1724,8 @@
     "Base Stamina": 150,
     "Base Attack": 185,
     "Base Defense": 148,
-    "Quick Moves": [ "RAZOR_LEAF_FAST", "BULLET_SEED_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "SOLAR_BEAM", "PETAL_BLIZZARD", "SLUDGE_BOMB", "STRUGGLE" ]
+    "Quick Moves": [ "RAZOR_LEAF_FAST", "BULLET_SEED_FAST", "" ],
+    "Cinematic Moves": [ "SOLAR_BEAM", "PETAL_BLIZZARD", "SLUDGE_BOMB", "" ]
 }, {
     "PkMn": 193,
     "Name": "YANMA",
@@ -1733,8 +1733,8 @@
     "Base Stamina": 130,
     "Base Attack": 154,
     "Base Defense": 94,
-    "Quick Moves": [ "QUICK_ATTACK_FAST", "WING_ATTACK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ANCIENT_POWER", "AERIAL_ACE", "SILVER_WIND", "STRUGGLE" ]
+    "Quick Moves": [ "QUICK_ATTACK_FAST", "WING_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "ANCIENT_POWER", "AERIAL_ACE", "SILVER_WIND", "" ]
 }, {
     "PkMn": 194,
     "Name": "WOOPER",
@@ -1742,8 +1742,8 @@
     "Base Stamina": 110,
     "Base Attack": 75,
     "Base Defense": 75,
-    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "MUD_BOMB", "DIG", "BODY_SLAM", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "" ],
+    "Cinematic Moves": [ "MUD_BOMB", "DIG", "BODY_SLAM", "" ]
 }, {
     "PkMn": 195,
     "Name": "QUAGSIRE",
@@ -1751,8 +1751,8 @@
     "Base Stamina": 190,
     "Base Attack": 152,
     "Base Defense": 152,
-    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "SLUDGE_BOMB", "EARTHQUAKE", "STONE_EDGE", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "" ],
+    "Cinematic Moves": [ "SLUDGE_BOMB", "EARTHQUAKE", "STONE_EDGE", "" ]
 }, {
     "PkMn": 196,
     "Name": "ESPEON",
@@ -1760,8 +1760,8 @@
     "Base Stamina": 130,
     "Base Attack": 261,
     "Base Defense": 194,
-    "Quick Moves": [ "CONFUSION_FAST", "ZEN_HEADBUTT_FAST", "CONFUSION_FAST", "ZEN_HEADBUTT_FAST" ],
-    "Cinematic Moves": [ "PSYBEAM", "PSYCHIC", "FUTURESIGHT", "STRUGGLE" ]
+    "Quick Moves": [ "CONFUSION_FAST", "ZEN_HEADBUTT_FAST", "" ],
+    "Cinematic Moves": [ "PSYBEAM", "PSYCHIC", "FUTURESIGHT", "" ]
 }, {
     "PkMn": 197,
     "Name": "UMBREON",
@@ -1769,8 +1769,8 @@
     "Base Stamina": 190,
     "Base Attack": 126,
     "Base Defense": 250,
-    "Quick Moves": [ "FEINT_ATTACK_FAST", "SNARL_FAST", "FEINT_ATTACK_FAST", "BITE_FAST" ],
-    "Cinematic Moves": [ "DARK_PULSE", "FOUL_PLAY", "STRUGGLE" ]
+    "Quick Moves": [ "FEINT_ATTACK_FAST", "SNARL_FAST", "" ],
+    "Cinematic Moves": [ "DARK_PULSE", "FOUL_PLAY", "" ]
 }, {
     "PkMn": 198,
     "Name": "MURKROW",
@@ -1778,8 +1778,8 @@
     "Base Stamina": 120,
     "Base Attack": 175,
     "Base Defense": 87,
-    "Quick Moves": [ "PECK_FAST", "FEINT_ATTACK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "DRILL_PECK", "FOUL_PLAY", "DARK_PULSE", "STRUGGLE" ]
+    "Quick Moves": [ "PECK_FAST", "FEINT_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "DRILL_PECK", "FOUL_PLAY", "DARK_PULSE", "" ]
 }, {
     "PkMn": 199,
     "Name": "SLOWKING",
@@ -1787,8 +1787,8 @@
     "Base Stamina": 190,
     "Base Attack": 177,
     "Base Defense": 194,
-    "Quick Moves": [ "WATER_GUN_FAST", "CONFUSION_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "BLIZZARD", "PSYCHIC", "FIRE_BLAST", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "CONFUSION_FAST", "" ],
+    "Cinematic Moves": [ "BLIZZARD", "PSYCHIC", "FIRE_BLAST", "" ]
 }, {
     "PkMn": 200,
     "Name": "MISDREAVUS",
@@ -1796,8 +1796,8 @@
     "Base Stamina": 120,
     "Base Attack": 167,
     "Base Defense": 167,
-    "Quick Moves": [ "ASTONISH_FAST", "HEX_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "SHADOW_SNEAK", "DARK_PULSE", "OMINOUS_WIND", "STRUGGLE" ]
+    "Quick Moves": [ "ASTONISH_FAST", "HEX_FAST", "" ],
+    "Cinematic Moves": [ "SHADOW_SNEAK", "DARK_PULSE", "OMINOUS_WIND", "" ]
 }, {
     "PkMn": 201,
     "Name": "UNOWN",
@@ -1805,8 +1805,8 @@
     "Base Stamina": 96,
     "Base Attack": 136,
     "Base Defense": 91,
-    "Quick Moves": [ "HIDDEN_POWER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "STRUGGLE", "STRUGGLE" ]
+    "Quick Moves": [ "HIDDEN_POWER_FAST", "" ],
+    "Cinematic Moves": [ "STRUGGLE", "" ]
 }, {
     "PkMn": 202,
     "Name": "WOBBUFFET",
@@ -1814,8 +1814,8 @@
     "Base Stamina": 380,
     "Base Attack": 60,
     "Base Defense": 106,
-    "Quick Moves": [ "COUNTER_FAST", "SPLASH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "MIRROR_COAT", "STRUGGLE" ]
+    "Quick Moves": [ "COUNTER_FAST", "SPLASH_FAST", "" ],
+    "Cinematic Moves": [ "MIRROR_COAT", "" ]
 }, {
     "PkMn": 203,
     "Name": "GIRAFARIG",
@@ -1823,8 +1823,8 @@
     "Base Stamina": 140,
     "Base Attack": 182,
     "Base Defense": 133,
-    "Quick Moves": [ "TACKLE_FAST", "CONFUSION_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "PSYCHIC", "THUNDERBOLT", "MIRROR_COAT", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "CONFUSION_FAST", "" ],
+    "Cinematic Moves": [ "PSYCHIC", "THUNDERBOLT", "MIRROR_COAT", "" ]
 }, {
     "PkMn": 204,
     "Name": "PINECO",
@@ -1832,8 +1832,8 @@
     "Base Stamina": 100,
     "Base Attack": 108,
     "Base Defense": 146,
-    "Quick Moves": [ "TACKLE_FAST", "BUG_BITE_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "GYRO_BALL", "ROCK_TOMB", "SAND_TOMB", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "BUG_BITE_FAST", "" ],
+    "Cinematic Moves": [ "GYRO_BALL", "ROCK_TOMB", "SAND_TOMB", "" ]
 }, {
     "PkMn": 205,
     "Name": "FORRETRESS",
@@ -1841,8 +1841,8 @@
     "Base Stamina": 150,
     "Base Attack": 161,
     "Base Defense": 242,
-    "Quick Moves": [ "BUG_BITE_FAST", "STRUGGLE_BUG_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "HEAVY_SLAM", "EARTHQUAKE", "ROCK_TOMB", "STRUGGLE" ]
+    "Quick Moves": [ "BUG_BITE_FAST", "STRUGGLE_BUG_FAST", "" ],
+    "Cinematic Moves": [ "HEAVY_SLAM", "EARTHQUAKE", "ROCK_TOMB", "" ]
 }, {
     "PkMn": 206,
     "Name": "DUNSPARCE",
@@ -1850,8 +1850,8 @@
     "Base Stamina": 200,
     "Base Attack": 131,
     "Base Defense": 131,
-    "Quick Moves": [ "BITE_FAST", "ASTONISH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "DIG", "ROCK_SLIDE", "DRILL_RUN", "STRUGGLE" ]
+    "Quick Moves": [ "BITE_FAST", "ASTONISH_FAST", "" ],
+    "Cinematic Moves": [ "DIG", "ROCK_SLIDE", "DRILL_RUN", "" ]
 }, {
     "PkMn": 207,
     "Name": "GLIGAR",
@@ -1859,8 +1859,8 @@
     "Base Stamina": 130,
     "Base Attack": 143,
     "Base Defense": 204,
-    "Quick Moves": [ "FURY_CUTTER_FAST", "WING_ATTACK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "DIG", "AERIAL_ACE", "NIGHT_SLASH", "STRUGGLE" ]
+    "Quick Moves": [ "FURY_CUTTER_FAST", "WING_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "DIG", "AERIAL_ACE", "NIGHT_SLASH", "" ]
 }, {
     "PkMn": 208,
     "Name": "STEELIX",
@@ -1868,8 +1868,8 @@
     "Base Stamina": 150,
     "Base Attack": 148,
     "Base Defense": 333,
-    "Quick Moves": [ "IRON_TAIL_FAST", "DRAGON_TAIL_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "EARTHQUAKE", "HEAVY_SLAM", "CRUNCH", "STRUGGLE" ]
+    "Quick Moves": [ "IRON_TAIL_FAST", "DRAGON_TAIL_FAST", "" ],
+    "Cinematic Moves": [ "EARTHQUAKE", "HEAVY_SLAM", "CRUNCH", "" ]
 }, {
     "PkMn": 209,
     "Name": "SNUBBULL",
@@ -1877,8 +1877,8 @@
     "Base Stamina": 120,
     "Base Attack": 137,
     "Base Defense": 89,
-    "Quick Moves": [ "TACKLE_FAST", "BITE_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "CRUNCH", "DAZZLING_GLEAM", "BRICK_BREAK", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "BITE_FAST", "" ],
+    "Cinematic Moves": [ "CRUNCH", "DAZZLING_GLEAM", "BRICK_BREAK", "" ]
 }, {
     "PkMn": 210,
     "Name": "GRANBULL",
@@ -1886,8 +1886,8 @@
     "Base Stamina": 180,
     "Base Attack": 212,
     "Base Defense": 137,
-    "Quick Moves": [ "BITE_FAST", "SNARL_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "CRUNCH", "PLAY_ROUGH", "CLOSE_COMBAT", "STRUGGLE" ]
+    "Quick Moves": [ "BITE_FAST", "SNARL_FAST", "" ],
+    "Cinematic Moves": [ "CRUNCH", "PLAY_ROUGH", "CLOSE_COMBAT", "" ]
 }, {
     "PkMn": 211,
     "Name": "QWILFISH",
@@ -1895,8 +1895,8 @@
     "Base Stamina": 130,
     "Base Attack": 184,
     "Base Defense": 148,
-    "Quick Moves": [ "POISON_STING_FAST", "WATER_GUN_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "AQUA_TAIL", "ICE_BEAM", "SLUDGE_WAVE", "STRUGGLE" ]
+    "Quick Moves": [ "POISON_STING_FAST", "WATER_GUN_FAST", "" ],
+    "Cinematic Moves": [ "AQUA_TAIL", "ICE_BEAM", "SLUDGE_WAVE", "" ]
 }, {
     "PkMn": 212,
     "Name": "SCIZOR",
@@ -1904,8 +1904,8 @@
     "Base Stamina": 140,
     "Base Attack": 236,
     "Base Defense": 191,
-    "Quick Moves": [ "BULLET_PUNCH_FAST", "FURY_CUTTER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "X_SCISSOR", "IRON_HEAD", "NIGHT_SLASH", "STRUGGLE" ]
+    "Quick Moves": [ "BULLET_PUNCH_FAST", "FURY_CUTTER_FAST", "" ],
+    "Cinematic Moves": [ "X_SCISSOR", "IRON_HEAD", "NIGHT_SLASH", "" ]
 }, {
     "PkMn": 213,
     "Name": "SHUCKLE",
@@ -1913,8 +1913,8 @@
     "Base Stamina": 40,
     "Base Attack": 17,
     "Base Defense": 396,
-    "Quick Moves": [ "STRUGGLE_BUG_FAST", "ROCK_THROW_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ROCK_BLAST", "STONE_EDGE", "GYRO_BALL", "STRUGGLE" ]
+    "Quick Moves": [ "STRUGGLE_BUG_FAST", "ROCK_THROW_FAST", "" ],
+    "Cinematic Moves": [ "ROCK_BLAST", "STONE_EDGE", "GYRO_BALL", "" ]
 }, {
     "PkMn": 214,
     "Name": "HERACROSS",
@@ -1922,8 +1922,8 @@
     "Base Stamina": 160,
     "Base Attack": 234,
     "Base Defense": 189,
-    "Quick Moves": [ "COUNTER_FAST", "STRUGGLE_BUG_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "MEGAHORN", "CLOSE_COMBAT", "EARTHQUAKE", "STRUGGLE" ]
+    "Quick Moves": [ "COUNTER_FAST", "STRUGGLE_BUG_FAST", "" ],
+    "Cinematic Moves": [ "MEGAHORN", "CLOSE_COMBAT", "EARTHQUAKE", "" ]
 }, {
     "PkMn": 215,
     "Name": "SNEASEL",
@@ -1931,8 +1931,8 @@
     "Base Stamina": 110,
     "Base Attack": 189,
     "Base Defense": 157,
-    "Quick Moves": [ "ICE_SHARD_FAST", "FEINT_ATTACK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "AVALANCHE", "ICE_PUNCH", "FOUL_PLAY", "STRUGGLE" ]
+    "Quick Moves": [ "ICE_SHARD_FAST", "FEINT_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "AVALANCHE", "ICE_PUNCH", "FOUL_PLAY", "" ]
 }, {
     "PkMn": 216,
     "Name": "TEDDIURSA",
@@ -1940,8 +1940,8 @@
     "Base Stamina": 120,
     "Base Attack": 142,
     "Base Defense": 93,
-    "Quick Moves": [ "SCRATCH_FAST", "LICK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "CROSS_CHOP", "CRUNCH", "PLAY_ROUGH", "STRUGGLE" ]
+    "Quick Moves": [ "SCRATCH_FAST", "LICK_FAST", "" ],
+    "Cinematic Moves": [ "CROSS_CHOP", "CRUNCH", "PLAY_ROUGH", "" ]
 }, {
     "PkMn": 217,
     "Name": "URSARING",
@@ -1949,8 +1949,8 @@
     "Base Stamina": 180,
     "Base Attack": 236,
     "Base Defense": 144,
-    "Quick Moves": [ "METAL_CLAW_FAST", "COUNTER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "CLOSE_COMBAT", "HYPER_BEAM", "PLAY_ROUGH", "STRUGGLE" ]
+    "Quick Moves": [ "METAL_CLAW_FAST", "COUNTER_FAST", "" ],
+    "Cinematic Moves": [ "CLOSE_COMBAT", "HYPER_BEAM", "PLAY_ROUGH", "" ]
 }, {
     "PkMn": 218,
     "Name": "SLUGMA",
@@ -1958,8 +1958,8 @@
     "Base Stamina": 80,
     "Base Attack": 118,
     "Base Defense": 71,
-    "Quick Moves": [ "EMBER_FAST", "ROCK_THROW_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "FLAME_BURST", "FLAME_CHARGE", "ROCK_SLIDE", "STRUGGLE" ]
+    "Quick Moves": [ "EMBER_FAST", "ROCK_THROW_FAST", "" ],
+    "Cinematic Moves": [ "FLAME_BURST", "FLAME_CHARGE", "ROCK_SLIDE", "" ]
 }, {
     "PkMn": 219,
     "Name": "MAGCARGO",
@@ -1967,8 +1967,8 @@
     "Base Stamina": 100,
     "Base Attack": 139,
     "Base Defense": 209,
-    "Quick Moves": [ "EMBER_FAST", "ROCK_THROW_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "HEAT_WAVE", "OVERHEAT", "STONE_EDGE", "STRUGGLE" ]
+    "Quick Moves": [ "EMBER_FAST", "ROCK_THROW_FAST", "" ],
+    "Cinematic Moves": [ "HEAT_WAVE", "OVERHEAT", "STONE_EDGE", "" ]
 }, {
     "PkMn": 220,
     "Name": "SWINUB",
@@ -1976,8 +1976,8 @@
     "Base Stamina": 100,
     "Base Attack": 90,
     "Base Defense": 74,
-    "Quick Moves": [ "TACKLE_FAST", "POWDER_SNOW_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ICY_WIND", "BODY_SLAM", "ROCK_SLIDE", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "POWDER_SNOW_FAST", "" ],
+    "Cinematic Moves": [ "ICY_WIND", "BODY_SLAM", "ROCK_SLIDE", "" ]
 }, {
     "PkMn": 221,
     "Name": "PILOSWINE",
@@ -1985,8 +1985,8 @@
     "Base Stamina": 200,
     "Base Attack": 181,
     "Base Defense": 147,
-    "Quick Moves": [ "ICE_SHARD_FAST", "POWDER_SNOW_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "AVALANCHE", "BULLDOZE", "STONE_EDGE", "STRUGGLE" ]
+    "Quick Moves": [ "ICE_SHARD_FAST", "POWDER_SNOW_FAST", "" ],
+    "Cinematic Moves": [ "AVALANCHE", "BULLDOZE", "STONE_EDGE", "" ]
 }, {
     "PkMn": 222,
     "Name": "CORSOLA",
@@ -1994,8 +1994,8 @@
     "Base Stamina": 110,
     "Base Attack": 118,
     "Base Defense": 156,
-    "Quick Moves": [ "TACKLE_FAST", "BUBBLE_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ROCK_BLAST", "POWER_GEM", "BUBBLE_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "BUBBLE_FAST", "" ],
+    "Cinematic Moves": [ "ROCK_BLAST", "POWER_GEM", "BUBBLE_BEAM", "" ]
 }, {
     "PkMn": 223,
     "Name": "REMORAID",
@@ -2003,8 +2003,8 @@
     "Base Stamina": 70,
     "Base Attack": 127,
     "Base Defense": 69,
-    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "AURORA_BEAM", "WATER_PULSE", "ROCK_BLAST", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "" ],
+    "Cinematic Moves": [ "AURORA_BEAM", "WATER_PULSE", "ROCK_BLAST", "" ]
 }, {
     "PkMn": 224,
     "Name": "OCTILLERY",
@@ -2012,8 +2012,8 @@
     "Base Stamina": 150,
     "Base Attack": 197,
     "Base Defense": 141,
-    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "GUNK_SHOT", "WATER_PULSE", "AURORA_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "MUD_SHOT_FAST", "" ],
+    "Cinematic Moves": [ "GUNK_SHOT", "WATER_PULSE", "AURORA_BEAM", "" ]
 }, {
     "PkMn": 225,
     "Name": "DELIBIRD",
@@ -2021,8 +2021,8 @@
     "Base Stamina": 90,
     "Base Attack": 128,
     "Base Defense": 90,
-    "Quick Moves": [ "ICE_SHARD_FAST", "QUICK_ATTACK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "ICE_PUNCH", "ICY_WIND", "AERIAL_ACE", "STRUGGLE" ]
+    "Quick Moves": [ "ICE_SHARD_FAST", "QUICK_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "ICE_PUNCH", "ICY_WIND", "AERIAL_ACE", "" ]
 }, {
     "PkMn": 226,
     "Name": "MANTINE",
@@ -2030,8 +2030,8 @@
     "Base Stamina": 130,
     "Base Attack": 148,
     "Base Defense": 260,
-    "Quick Moves": [ "BUBBLE_FAST", "WING_ATTACK_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "WATER_PULSE", "ICE_BEAM", "AERIAL_ACE", "STRUGGLE" ]
+    "Quick Moves": [ "BUBBLE_FAST", "WING_ATTACK_FAST", "" ],
+    "Cinematic Moves": [ "WATER_PULSE", "ICE_BEAM", "AERIAL_ACE", "" ]
 }, {
     "PkMn": 227,
     "Name": "SKARMORY",
@@ -2039,8 +2039,8 @@
     "Base Stamina": 130,
     "Base Attack": 148,
     "Base Defense": 260,
-    "Quick Moves": [ "STEEL_WING_FAST", "AIR_SLASH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "BRAVE_BIRD", "SKY_ATTACK", "FLASH_CANNON", "STRUGGLE" ]
+    "Quick Moves": [ "STEEL_WING_FAST", "AIR_SLASH_FAST", "" ],
+    "Cinematic Moves": [ "BRAVE_BIRD", "SKY_ATTACK", "FLASH_CANNON", "" ]
 }, {
     "PkMn": 228,
     "Name": "HOUNDOUR",
@@ -2048,8 +2048,8 @@
     "Base Stamina": 90,
     "Base Attack": 152,
     "Base Defense": 93,
-    "Quick Moves": [ "FEINT_ATTACK_FAST", "EMBER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "CRUNCH", "FLAMETHROWER", "DARK_PULSE", "STRUGGLE" ]
+    "Quick Moves": [ "FEINT_ATTACK_FAST", "EMBER_FAST", "" ],
+    "Cinematic Moves": [ "CRUNCH", "FLAMETHROWER", "DARK_PULSE", "" ]
 }, {
     "PkMn": 229,
     "Name": "HOUNDOOM",
@@ -2057,8 +2057,8 @@
     "Base Stamina": 150,
     "Base Attack": 224,
     "Base Defense": 159,
-    "Quick Moves": [ "SNARL_FAST", "FIRE_FANG_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "CRUNCH", "FIRE_BLAST", "FOUL_PLAY", "STRUGGLE" ]
+    "Quick Moves": [ "SNARL_FAST", "FIRE_FANG_FAST", "" ],
+    "Cinematic Moves": [ "CRUNCH", "FIRE_BLAST", "FOUL_PLAY", "" ]
 }, {
     "PkMn": 230,
     "Name": "KINGDRA",
@@ -2066,8 +2066,8 @@
     "Base Stamina": 150,
     "Base Attack": 194,
     "Base Defense": 194,
-    "Quick Moves": [ "WATER_GUN_FAST", "DRAGON_BREATH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "HYDRO_PUMP", "BLIZZARD", "OUTRAGE", "STRUGGLE" ]
+    "Quick Moves": [ "WATER_GUN_FAST", "DRAGON_BREATH_FAST", "" ],
+    "Cinematic Moves": [ "HYDRO_PUMP", "BLIZZARD", "OUTRAGE", "" ]
 }, {
     "PkMn": 231,
     "Name": "PHANPY",
@@ -2075,8 +2075,8 @@
     "Base Stamina": 180,
     "Base Attack": 107,
     "Base Defense": 107,
-    "Quick Moves": [ "TACKLE_FAST", "ROCK_SMASH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "BULLDOZE", "ROCK_SLIDE", "BODY_SLAM", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "ROCK_SMASH_FAST", "" ],
+    "Cinematic Moves": [ "BULLDOZE", "ROCK_SLIDE", "BODY_SLAM", "" ]
 }, {
     "PkMn": 232,
     "Name": "DONPHAN",
@@ -2084,8 +2084,8 @@
     "Base Stamina": 180,
     "Base Attack": 214,
     "Base Defense": 214,
-    "Quick Moves": [ "TACKLE_FAST", "COUNTER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "EARTHQUAKE", "HEAVY_SLAM", "PLAY_ROUGH", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "COUNTER_FAST", "" ],
+    "Cinematic Moves": [ "EARTHQUAKE", "HEAVY_SLAM", "PLAY_ROUGH", "" ]
 }, {
     "PkMn": 233,
     "Name": "PORYGON2",
@@ -2093,8 +2093,8 @@
     "Base Stamina": 170,
     "Base Attack": 198,
     "Base Defense": 183,
-    "Quick Moves": [ "HIDDEN_POWER_FAST", "CHARGE_BEAM_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "SOLAR_BEAM", "HYPER_BEAM", "ZAP_CANNON", "STRUGGLE" ]
+    "Quick Moves": [ "HIDDEN_POWER_FAST", "CHARGE_BEAM_FAST", "" ],
+    "Cinematic Moves": [ "SOLAR_BEAM", "HYPER_BEAM", "ZAP_CANNON", "" ]
 }, {
     "PkMn": 234,
     "Name": "STANTLER",
@@ -2102,8 +2102,8 @@
     "Base Stamina": 146,
     "Base Attack": 192,
     "Base Defense": 132,
-    "Quick Moves": [ "TACKLE_FAST", "ZEN_HEADBUTT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "STOMP", "WILD_CHARGE", "MEGAHORN", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "ZEN_HEADBUTT_FAST", "" ],
+    "Cinematic Moves": [ "STOMP", "WILD_CHARGE", "MEGAHORN", "" ]
 }, {
     "PkMn": 235,
     "Name": "SMEARGLE",
@@ -2111,8 +2111,8 @@
     "Base Stamina": 110,
     "Base Attack": 40,
     "Base Defense": 88,
-    "Quick Moves": [ "TACKLE_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "STRUGGLE", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "" ],
+    "Cinematic Moves": [ "STRUGGLE", "" ]
 }, {
     "PkMn": 236,
     "Name": "TYROGUE",
@@ -2120,8 +2120,8 @@
     "Base Stamina": 70,
     "Base Attack": 64,
     "Base Defense": 64,
-    "Quick Moves": [ "ROCK_SMASH_FAST", "TACKLE_FAST", "ROCK_SMASH_FAST", "LOW_KICK_FAST" ],
-    "Cinematic Moves": [ "BRICK_BREAK", "ROCK_SLIDE", "LOW_SWEEP", "BRICK_BREAK", "BODY_SLAM", "LOW_SWEEP" ]
+    "Quick Moves": [ "ROCK_SMASH_FAST", "TACKLE_FAST", "" ],
+    "Cinematic Moves": [ "BRICK_BREAK", "ROCK_SLIDE", "LOW_SWEEP", "" ]
 }, {
     "PkMn": 237,
     "Name": "HITMONTOP",
@@ -2129,8 +2129,8 @@
     "Base Stamina": 100,
     "Base Attack": 173,
     "Base Defense": 214,
-    "Quick Moves": [ "ROCK_SMASH_FAST", "COUNTER_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "CLOSE_COMBAT", "GYRO_BALL", "STONE_EDGE", "STRUGGLE" ]
+    "Quick Moves": [ "ROCK_SMASH_FAST", "COUNTER_FAST", "" ],
+    "Cinematic Moves": [ "CLOSE_COMBAT", "GYRO_BALL", "STONE_EDGE", "" ]
 }, {
     "PkMn": 238,
     "Name": "SMOOCHUM",
@@ -2138,8 +2138,8 @@
     "Base Stamina": 90,
     "Base Attack": 153,
     "Base Defense": 116,
-    "Quick Moves": [ "POWDER_SNOW_FAST", "POUND_FAST", "FROST_BREATH_FAST", "POUND_FAST" ],
-    "Cinematic Moves": [ "ICE_BEAM", "ICE_PUNCH", "PSYSHOCK", "ICE_BEAM", "ICE_PUNCH", "PSYSHOCK" ]
+    "Quick Moves": [ "POWDER_SNOW_FAST", "POUND_FAST", "" ],
+    "Cinematic Moves": [ "ICE_BEAM", "ICE_PUNCH", "PSYSHOCK", "" ]
 }, {
     "PkMn": 239,
     "Name": "ELEKID",
@@ -2147,8 +2147,8 @@
     "Base Stamina": 90,
     "Base Attack": 135,
     "Base Defense": 110,
-    "Quick Moves": [ "THUNDER_SHOCK_FAST", "LOW_KICK_FAST", "THUNDER_SHOCK_FAST", "LOW_KICK_FAST" ],
-    "Cinematic Moves": [ "THUNDER_PUNCH", "BRICK_BREAK", "DISCHARGE", "THUNDER_PUNCH", "THUNDERBOLT", "DISCHARGE" ]
+    "Quick Moves": [ "THUNDER_SHOCK_FAST", "LOW_KICK_FAST", "" ],
+    "Cinematic Moves": [ "THUNDER_PUNCH", "BRICK_BREAK", "DISCHARGE", "" ]
 }, {
     "PkMn": 240,
     "Name": "MAGBY",
@@ -2156,8 +2156,8 @@
     "Base Stamina": 90,
     "Base Attack": 151,
     "Base Defense": 108,
-    "Quick Moves": [ "EMBER_FAST", "KARATE_CHOP_FAST", "EMBER_FAST", "KARATE_CHOP_FAST" ],
-    "Cinematic Moves": [ "BRICK_BREAK", "FIRE_PUNCH", "FLAME_BURST", "BRICK_BREAK", "FIRE_PUNCH", "FLAMETHROWER" ]
+    "Quick Moves": [ "EMBER_FAST", "KARATE_CHOP_FAST", "" ],
+    "Cinematic Moves": [ "BRICK_BREAK", "FIRE_PUNCH", "FLAME_BURST", "" ]
 }, {
     "PkMn": 241,
     "Name": "MILTANK",
@@ -2165,8 +2165,8 @@
     "Base Stamina": 190,
     "Base Attack": 157,
     "Base Defense": 211,
-    "Quick Moves": [ "TACKLE_FAST", "ZEN_HEADBUTT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "STOMP", "BODY_SLAM", "GYRO_BALL", "STRUGGLE" ]
+    "Quick Moves": [ "TACKLE_FAST", "ZEN_HEADBUTT_FAST", "" ],
+    "Cinematic Moves": [ "STOMP", "BODY_SLAM", "GYRO_BALL", "" ]
 }, {
     "PkMn": 242,
     "Name": "BLISSEY",
@@ -2174,8 +2174,8 @@
     "Base Stamina": 510,
     "Base Attack": 129,
     "Base Defense": 229,
-    "Quick Moves": [ "POUND_FAST", "ZEN_HEADBUTT_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "PSYCHIC", "HYPER_BEAM", "DAZZLING_GLEAM", "STRUGGLE" ]
+    "Quick Moves": [ "POUND_FAST", "ZEN_HEADBUTT_FAST", "" ],
+    "Cinematic Moves": [ "PSYCHIC", "HYPER_BEAM", "DAZZLING_GLEAM", "" ]
 }, {
     "PkMn": 243,
     "Name": "RAIKOU",
@@ -2183,8 +2183,8 @@
     "Base Stamina": 180,
     "Base Attack": 241,
     "Base Defense": 210,
-    "Quick Moves": [ "THUNDER_SHOCK_FAST", "VOLT_SWITCH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "THUNDER", "THUNDERBOLT", "WILD_CHARGE", "STRUGGLE" ]
+    "Quick Moves": [ "THUNDER_SHOCK_FAST", "VOLT_SWITCH_FAST", "" ],
+    "Cinematic Moves": [ "THUNDER", "THUNDERBOLT", "WILD_CHARGE", "" ]
 }, {
     "PkMn": 244,
     "Name": "ENTEI",
@@ -2192,8 +2192,8 @@
     "Base Stamina": 230,
     "Base Attack": 235,
     "Base Defense": 176,
-    "Quick Moves": [ "FIRE_SPIN_FAST", "FIRE_FANG_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "FLAMETHROWER", "FIRE_BLAST", "OVERHEAT", "STRUGGLE" ]
+    "Quick Moves": [ "FIRE_SPIN_FAST", "FIRE_FANG_FAST", "" ],
+    "Cinematic Moves": [ "FLAMETHROWER", "FIRE_BLAST", "OVERHEAT", "" ]
 }, {
     "PkMn": 245,
     "Name": "SUICUNE",
@@ -2201,8 +2201,8 @@
     "Base Stamina": 200,
     "Base Attack": 180,
     "Base Defense": 235,
-    "Quick Moves": [ "EXTRASENSORY_FAST", "SNARL_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "HYDRO_PUMP", "BUBBLE_BEAM", "WATER_PULSE", "STRUGGLE" ]
+    "Quick Moves": [ "EXTRASENSORY_FAST", "SNARL_FAST", "" ],
+    "Cinematic Moves": [ "HYDRO_PUMP", "BUBBLE_BEAM", "WATER_PULSE", "" ]
 }, {
     "PkMn": 246,
     "Name": "LARVITAR",
@@ -2210,8 +2210,8 @@
     "Base Stamina": 100,
     "Base Attack": 115,
     "Base Defense": 93,
-    "Quick Moves": [ "BITE_FAST", "ROCK_SMASH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "STOMP", "CRUNCH", "ANCIENT_POWER", "STRUGGLE" ]
+    "Quick Moves": [ "BITE_FAST", "ROCK_SMASH_FAST", "" ],
+    "Cinematic Moves": [ "STOMP", "CRUNCH", "ANCIENT_POWER", "" ]
 }, {
     "PkMn": 247,
     "Name": "PUPITAR",
@@ -2219,8 +2219,8 @@
     "Base Stamina": 140,
     "Base Attack": 155,
     "Base Defense": 133,
-    "Quick Moves": [ "BITE_FAST", "ROCK_SMASH_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "DIG", "CRUNCH", "ANCIENT_POWER", "STRUGGLE" ]
+    "Quick Moves": [ "BITE_FAST", "ROCK_SMASH_FAST", "" ],
+    "Cinematic Moves": [ "DIG", "CRUNCH", "ANCIENT_POWER", "" ]
 }, {
     "PkMn": 248,
     "Name": "TYRANITAR",
@@ -2228,8 +2228,8 @@
     "Base Stamina": 200,
     "Base Attack": 251,
     "Base Defense": 212,
-    "Quick Moves": [ "BITE_FAST", "IRON_TAIL_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "FIRE_BLAST", "CRUNCH", "STONE_EDGE", "STRUGGLE" ]
+    "Quick Moves": [ "BITE_FAST", "IRON_TAIL_FAST", "" ],
+    "Cinematic Moves": [ "FIRE_BLAST", "CRUNCH", "STONE_EDGE", "" ]
 }, {
     "PkMn": 249,
     "Name": "LUGIA",
@@ -2237,8 +2237,8 @@
     "Base Stamina": 212,
     "Base Attack": 193,
     "Base Defense": 323,
-    "Quick Moves": [ "EXTRASENSORY_FAST", "DRAGON_TAIL_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "SKY_ATTACK", "HYDRO_PUMP", "FUTURESIGHT", "STRUGGLE" ]
+    "Quick Moves": [ "EXTRASENSORY_FAST", "DRAGON_TAIL_FAST", "" ],
+    "Cinematic Moves": [ "SKY_ATTACK", "HYDRO_PUMP", "FUTURESIGHT", "" ]
 }, {
     "PkMn": 250,
     "Name": "HO_OH",
@@ -2246,8 +2246,8 @@
     "Base Stamina": 212,
     "Base Attack": 263,
     "Base Defense": 301,
-    "Quick Moves": [ "EXTRASENSORY_FAST", "STEEL_WING_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "BRAVE_BIRD", "FIRE_BLAST", "SOLAR_BEAM", "STRUGGLE" ]
+    "Quick Moves": [ "EXTRASENSORY_FAST", "STEEL_WING_FAST", "" ],
+    "Cinematic Moves": [ "BRAVE_BIRD", "FIRE_BLAST", "SOLAR_BEAM", "" ]
 }, {
     "PkMn": 251,
     "Name": "CELEBI",
@@ -2255,6 +2255,6 @@
     "Base Stamina": 200,
     "Base Attack": 210,
     "Base Defense": 210,
-    "Quick Moves": [ "CONFUSION_FAST", "CHARGE_BEAM_FAST", "TACKLE_FAST" ],
-    "Cinematic Moves": [ "HYPER_BEAM", "PSYCHIC", "DAZZLING_GLEAM", "STRUGGLE" ]
+    "Quick Moves": [ "CONFUSION_FAST", "CHARGE_BEAM_FAST", "" ],
+    "Cinematic Moves": [ "HYPER_BEAM", "PSYCHIC", "DAZZLING_GLEAM", "" ]
 } ]
