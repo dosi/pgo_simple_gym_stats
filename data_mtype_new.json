@@ -572,187 +572,187 @@
     "Name": "FURY_CUTTER_FAST",
     "Type": "BUG",
     "Power": 3,
-    "Duration (ms)": 900,
+    "Duration (ms)": 600,
     "Energy Delta": 6
 }, {
     "Name": "BUG_BITE_FAST",
     "Type": "BUG",
     "Power": 5,
-    "Duration (ms)": 950,
+    "Duration (ms)": 500,
     "Energy Delta": 6
 }, {
     "Name": "BITE_FAST",
     "Type": "DARK",
-    "Power": 10,
-    "Duration (ms)": 1000,
-    "Energy Delta": 6
+    "Power": 6,
+    "Duration (ms)": 500,
+    "Energy Delta": 4
 }, {
     "Name": "SUCKER_PUNCH_FAST",
     "Type": "DARK",
-    "Power": 8,
-    "Duration (ms)": 1200,
-    "Energy Delta": 9
+    "Power": 7,
+    "Duration (ms)": 700,
+    "Energy Delta": 8
 }, {
     "Name": "DRAGON_BREATH_FAST",
     "Type": "DRAGON",
-    "Power": 12,
-    "Duration (ms)": 1000,
-    "Energy Delta": 5
+    "Power": 6,
+    "Duration (ms)": 500,
+    "Energy Delta": 4
 }, {
     "Name": "THUNDER_SHOCK_FAST",
     "Type": "ELECTRIC",
-    "Power": 6,
-    "Duration (ms)": 1100,
-    "Energy Delta": 9
+    "Power": 5,
+    "Duration (ms)": 600,
+    "Energy Delta": 8
 }, {
     "Name": "SPARK_FAST",
     "Type": "ELECTRIC",
-    "Power": 8,
-    "Duration (ms)": 1200,
-    "Energy Delta": 8
+    "Power": 6,
+    "Duration (ms)": 700,
+    "Energy Delta": 9
 }, {
     "Name": "LOW_KICK_FAST",
     "Type": "FIGHTING",
     "Power": 6,
-    "Duration (ms)": 1100,
-    "Energy Delta": 8
+    "Duration (ms)": 600,
+    "Energy Delta": 6
 }, {
     "Name": "KARATE_CHOP_FAST",
     "Type": "FIGHTING",
     "Power": 8,
-    "Duration (ms)": 1300,
+    "Duration (ms)": 800,
     "Energy Delta": 10
 }, {
     "Name": "EMBER_FAST",
     "Type": "FIRE",
     "Power": 10,
-    "Duration (ms)": 1500,
+    "Duration (ms)": 1000,
     "Energy Delta": 10
 }, {
     "Name": "WING_ATTACK_FAST",
     "Type": "FLYING",
-    "Power": 10,
-    "Duration (ms)": 1250,
-    "Energy Delta": 10
+    "Power": 8,
+    "Duration (ms)": 800,
+    "Energy Delta": 9
 }, {
     "Name": "PECK_FAST",
     "Type": "FLYING",
     "Power": 10,
-    "Duration (ms)": 1500,
+    "Duration (ms)": 1000,
     "Energy Delta": 10
 }, {
     "Name": "LICK_FAST",
     "Type": "GHOST",
     "Power": 5,
-    "Duration (ms)": 1000,
+    "Duration (ms)": 500,
     "Energy Delta": 6
 }, {
     "Name": "SHADOW_CLAW_FAST",
     "Type": "GHOST",
-    "Power": 12,
-    "Duration (ms)": 1200,
+    "Power": 9,
+    "Duration (ms)": 700,
     "Energy Delta": 6
 }, {
     "Name": "VINE_WHIP_FAST",
     "Type": "GRASS",
-    "Power": 8,
-    "Duration (ms)": 1100,
-    "Energy Delta": 7
+    "Power": 7,
+    "Duration (ms)": 600,
+    "Energy Delta": 6
 }, {
     "Name": "RAZOR_LEAF_FAST",
     "Type": "GRASS",
-    "Power": 15,
-    "Duration (ms)": 1500,
-    "Energy Delta": 8
+    "Power": 13,
+    "Duration (ms)": 1000,
+    "Energy Delta": 7
 }, {
     "Name": "MUD_SHOT_FAST",
     "Type": "GROUND",
-    "Power": 9,
-    "Duration (ms)": 1050,
+    "Power": 5,
+    "Duration (ms)": 600,
     "Energy Delta": 7
 }, {
     "Name": "ICE_SHARD_FAST",
     "Type": "ICE",
     "Power": 12,
-    "Duration (ms)": 1700,
+    "Duration (ms)": 1200,
     "Energy Delta": 12
 }, {
     "Name": "FROST_BREATH_FAST",
     "Type": "ICE",
     "Power": 10,
-    "Duration (ms)": 1400,
-    "Energy Delta": 7
+    "Duration (ms)": 900,
+    "Energy Delta": 8
 }, {
     "Name": "QUICK_ATTACK_FAST",
     "Type": "NORMAL",
-    "Power": 10,
-    "Duration (ms)": 1250,
-    "Energy Delta": 8
+    "Power": 8,
+    "Duration (ms)": 800,
+    "Energy Delta": 10
 }, {
     "Name": "SCRATCH_FAST",
     "Type": "NORMAL",
-    "Power": 12,
-    "Duration (ms)": 1000,
-    "Energy Delta": 7
+    "Power": 6,
+    "Duration (ms)": 500,
+    "Energy Delta": 4
 }, {
     "Name": "TACKLE_FAST",
     "Type": "NORMAL",
-    "Power": 10,
-    "Duration (ms)": 1000,
+    "Power": 5,
+    "Duration (ms)": 500,
     "Energy Delta": 5
 }, {
     "Name": "POUND_FAST",
     "Type": "NORMAL",
-    "Power": 8,
-    "Duration (ms)": 1040,
-    "Energy Delta": 7
+    "Power": 7,
+    "Duration (ms)": 600,
+    "Energy Delta": 6
 }, {
     "Name": "CUT_FAST",
     "Type": "NORMAL",
-    "Power": 10,
-    "Duration (ms)": 1000,
+    "Power": 5,
+    "Duration (ms)": 500,
     "Energy Delta": 5
 }, {
     "Name": "POISON_JAB_FAST",
     "Type": "POISON",
-    "Power": 12,
-    "Duration (ms)": 1300,
-    "Energy Delta": 8
+    "Power": 10,
+    "Duration (ms)": 800,
+    "Energy Delta": 7
 }, {
     "Name": "ACID_FAST",
     "Type": "POISON",
-    "Power": 10,
-    "Duration (ms)": 1300,
-    "Energy Delta": 9
+    "Power": 9,
+    "Duration (ms)": 800,
+    "Energy Delta": 8
 }, {
     "Name": "PSYCHO_CUT_FAST",
     "Type": "PSYCHIC",
-    "Power": 8,
-    "Duration (ms)": 1070,
+    "Power": 5,
+    "Duration (ms)": 600,
     "Energy Delta": 8
 }, {
     "Name": "ROCK_THROW_FAST",
     "Type": "ROCK",
     "Power": 12,
-    "Duration (ms)": 1400,
-    "Energy Delta": 10
+    "Duration (ms)": 900,
+    "Energy Delta": 7
 }, {
     "Name": "METAL_CLAW_FAST",
     "Type": "STEEL",
     "Power": 8,
-    "Duration (ms)": 1130,
+    "Duration (ms)": 700,
     "Energy Delta": 7
 }, {
     "Name": "BULLET_PUNCH_FAST",
     "Type": "STEEL",
-    "Power": 12,
-    "Duration (ms)": 1400,
+    "Power": 8,
+    "Duration (ms)": 900,
     "Energy Delta": 10
 }, {
     "Name": "WATER_GUN_FAST",
     "Type": "WATER",
-    "Power": 10,
-    "Duration (ms)": 1000,
+    "Power": 5,
+    "Duration (ms)": 500,
     "Energy Delta": 6
 }, {
     "Name": "SPLASH_FAST",
@@ -763,62 +763,62 @@
 }, {
     "Name": "WATER_GUN_FAST_BLASTOISE",
     "Type": "WATER",
-    "Power": 10,
-    "Duration (ms)": 1000,
+    "Power": 5,
+    "Duration (ms)": 500,
     "Energy Delta": 6
 }, {
     "Name": "MUD_SLAP_FAST",
     "Type": "GROUND",
     "Power": 15,
-    "Duration (ms)": 1850,
+    "Duration (ms)": 1400,
     "Energy Delta": 12
 }, {
     "Name": "ZEN_HEADBUTT_FAST",
     "Type": "PSYCHIC",
     "Power": 12,
-    "Duration (ms)": 1550,
+    "Duration (ms)": 1100,
     "Energy Delta": 10
 }, {
     "Name": "CONFUSION_FAST",
     "Type": "PSYCHIC",
     "Power": 20,
-    "Duration (ms)": 2100,
-    "Energy Delta": 10
+    "Duration (ms)": 1600,
+    "Energy Delta": 15
 }, {
     "Name": "POISON_STING_FAST",
     "Type": "POISON",
-    "Power": 6,
-    "Duration (ms)": 1075,
-    "Energy Delta": 8
+    "Power": 5,
+    "Duration (ms)": 600,
+    "Energy Delta": 7
 }, {
     "Name": "BUBBLE_FAST",
     "Type": "WATER",
-    "Power": 15,
-    "Duration (ms)": 1700,
-    "Energy Delta": 12
+    "Power": 12,
+    "Duration (ms)": 1200,
+    "Energy Delta": 14
 }, {
     "Name": "FEINT_ATTACK_FAST",
     "Type": "DARK",
-    "Power": 12,
-    "Duration (ms)": 1400,
-    "Energy Delta": 10
+    "Power": 10,
+    "Duration (ms)": 900,
+    "Energy Delta": 9
 }, {
     "Name": "STEEL_WING_FAST",
     "Type": "STEEL",
-    "Power": 12,
-    "Duration (ms)": 1300,
-    "Energy Delta": 8
+    "Power": 11,
+    "Duration (ms)": 800,
+    "Energy Delta": 6
 }, {
     "Name": "FIRE_FANG_FAST",
     "Type": "FIRE",
-    "Power": 12,
-    "Duration (ms)": 1340,
-    "Energy Delta": 10
+    "Power": 11,
+    "Duration (ms)": 900,
+    "Energy Delta": 8
 }, {
     "Name": "ROCK_SMASH_FAST",
     "Type": "FIGHTING",
     "Power": 15,
-    "Duration (ms)": 1700,
+    "Duration (ms)": 1300,
     "Energy Delta": 10
 }, {
     "Name": "TRANSFORM_FAST",
@@ -829,7 +829,7 @@
 }, {
     "Name": "COUNTER_FAST",
     "Type": "FIGHTING",
-    "Power": 10,
+    "Power": 12,
     "Duration (ms)": 900,
     "Energy Delta": 8
 }, {
@@ -866,14 +866,14 @@
     "Name": "CHARGE_BEAM_FAST",
     "Type": "ELECTRIC",
     "Power": 8,
-    "Duration (ms)": 1550,
+    "Duration (ms)": 1100,
     "Energy Delta": 15
 }, {
     "Name": "VOLT_SWITCH_FAST",
     "Type": "ELECTRIC",
-    "Power": 12,
+    "Power": 20,
     "Duration (ms)": 2300,
-    "Energy Delta": 20
+    "Energy Delta": 25
 }, {
     "Name": "WILD_CHARGE",
     "Type": "ELECTRIC",
@@ -890,8 +890,8 @@
     "Name": "DRAGON_TAIL_FAST",
     "Type": "DRAGON",
     "Power": 15,
-    "Duration (ms)": 1550,
-    "Energy Delta": 6
+    "Duration (ms)": 1100,
+    "Energy Delta": 9
 }, {
     "Name": "AVALANCHE",
     "Type": "ICE",
@@ -901,7 +901,7 @@
 }, {
     "Name": "AIR_SLASH_FAST",
     "Type": "FLYING",
-    "Power": 12,
+    "Power": 14,
     "Duration (ms)": 1200,
     "Energy Delta": 10
 }, {
@@ -932,14 +932,14 @@
     "Name": "INFESTATION_FAST",
     "Type": "BUG",
     "Power": 10,
-    "Duration (ms)": 1550,
+    "Duration (ms)": 1100,
     "Energy Delta": 14
 }, {
     "Name": "STRUGGLE_BUG_FAST",
     "Type": "BUG",
-    "Power": 6,
+    "Power": 15,
     "Duration (ms)": 1500,
-    "Energy Delta": 12
+    "Energy Delta": 15
 }, {
     "Name": "SILVER_WIND",
     "Type": "BUG",
@@ -950,8 +950,8 @@
     "Name": "ASTONISH_FAST",
     "Type": "GHOST",
     "Power": 8,
-    "Duration (ms)": 1050,
-    "Energy Delta": 12
+    "Duration (ms)": 1100,
+    "Energy Delta": 14
 }, {
     "Name": "HEX_FAST",
     "Type": "GHOST",
@@ -968,8 +968,8 @@
     "Name": "IRON_TAIL_FAST",
     "Type": "STEEL",
     "Power": 15,
-    "Duration (ms)": 1550,
-    "Energy Delta": 6
+    "Duration (ms)": 1100,
+    "Energy Delta": 7
 }, {
     "Name": "GYRO_BALL",
     "Type": "STEEL",
@@ -985,8 +985,8 @@
 }, {
     "Name": "FIRE_SPIN_FAST",
     "Type": "FIRE",
-    "Power": 15,
-    "Duration (ms)": 1550,
+    "Power": 14,
+    "Duration (ms)": 1100,
     "Energy Delta": 10
 }, {
     "Name": "OVERHEAT",
@@ -998,8 +998,8 @@
     "Name": "BULLET_SEED_FAST",
     "Type": "GRASS",
     "Power": 8,
-    "Duration (ms)": 1550,
-    "Energy Delta": 12
+    "Duration (ms)": 1100,
+    "Energy Delta": 14
 }, {
     "Name": "GRASS_KNOT",
     "Type": "GRASS",
@@ -1016,7 +1016,7 @@
     "Name": "EXTRASENSORY_FAST",
     "Type": "PSYCHIC",
     "Power": 12,
-    "Duration (ms)": 1550,
+    "Duration (ms)": 1100,
     "Energy Delta": 12
 }, {
     "Name": "FUTURESIGHT",
@@ -1040,7 +1040,7 @@
     "Name": "SNARL_FAST",
     "Type": "DARK",
     "Power": 12,
-    "Duration (ms)": 1550,
+    "Duration (ms)": 1100,
     "Energy Delta": 12
 }, {
     "Name": "CRUNCH",
@@ -1057,7 +1057,7 @@
 }, {
     "Name": "HIDDEN_POWER_FAST",
     "Type": "NORMAL",
-    "Power": 10,
+    "Power": 15,
     "Duration (ms)": 1500,
     "Energy Delta": 15
 } ]
